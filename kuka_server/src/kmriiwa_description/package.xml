@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<package format="2">
+  <name>kmriiwa_description</name>
+  <version>0.0.0</version>
+  <description>The kmriiwa_description package</description>
+
+  <author email="hatem.fakhruldeen@gmail.com">stoic-roboticist</author>
+  <maintainer email="hatem.fakhruldeen@gmail.com">stoic-roboticist</maintainer>
+  
+  <license>TODO</license>
+
+  <buildtool_depend>catkin</buildtool_depend>
+
+</package>

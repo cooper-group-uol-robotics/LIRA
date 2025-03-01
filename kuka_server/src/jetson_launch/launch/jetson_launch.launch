@@ -1,0 +1,19 @@
+<launch>
+    <arg name="color_width" default="1280"/>
+    <arg name="color_height" default="720"/>
+    <arg name="color_fps" default="10"/>
+
+    <!-- Launch the realsense2_camera node -->
+    <include file="$(find realsense2_camera)/launch/rs_camera.launch">
+        <arg name="color_width" value="$(arg color_width)"/>
+        <arg name="color_height" value="$(arg color_height)"/>
+        <arg name="color_fps" value="$(arg color_fps)"/>
+    </include>
+    
+    <!-- Launch the aruco_detector node -->
+    <node name="aruco_detector_node_clear" pkg="aruco_detector" type="aruco_detector_node_clear.py" />
+
+    <!-- Launch the jetson_server_SOAP node -->
+    <node name="jetson_server_SOAP" pkg="service" type="jetson_server_SOAP.py" />
+
+</launch>

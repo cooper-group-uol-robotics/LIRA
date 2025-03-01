@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<launch>
+  
+  <arg name="robot_name" default="kmriiwa" />
+  <arg name="hardware_interface" default="PositionJointInterface" />
+  <arg name="robot_extras" default="$(find kmriiwa_description)/urdf/robot/empty.xacro"/>
+  <arg name="publish_frequency" default="10"/>
+
+  <param name="robot_description" command="$(find xacro)/xacro --inorder '$(find kmriiwa_description)/urdf/robot/kmriiwa.urdf.xacro' robot_name:='$(arg robot_name)' hardware_interface:='$(arg hardware_interface)' robot_extras:='$(arg robot_extras)'"/>
+
+  <node name="robot_state_publisher" pkg="robot_state_publisher" type="robot_state_publisher">
+    <param name="publish_frequency" value="$(arg publish_frequency)"/>
+  </node>
+</launch>

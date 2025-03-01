@@ -1,0 +1,6 @@
+# Request
+float64[] joint_states
+---
+# Response
+string message
+
