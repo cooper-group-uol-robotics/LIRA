@@ -87,7 +87,7 @@ class KukaSOAPService(ServiceBase):
         rospy.init_node("kuka_soap_service", anonymous=True)
         if KukaSOAPService.image_analyzer is None:
             print("Initializing ImageAnalyzer...")
-            KukaSOAPService.image_analyzer = ImageAnalyzer(model_id="./checkpoints/llava-onevision-0.5b-ov_train3")
+            KukaSOAPService.image_analyzer = ImageAnalyzer(model_id="Zhengxue/llava-onevision-0.5b-ov_train3")
             print("ImageAnalyzer initialized.")
         
         self.image_saved_event = threading.Event()
