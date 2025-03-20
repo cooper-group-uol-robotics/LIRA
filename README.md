@@ -5,6 +5,10 @@ LIRA  is an edge computing module that enhances robotic decision-making through 
 # Hardware:
 Robot: KUKA KMR iiwa, Camera: Intel Realsense D435i, Edge module: NVIDIA AGX Orin(64gb)
 
+# Demo Videos:
+1) Stability testing for the localization function: https://youtu.be/OZHP_0X6fls
+2) The demo of recovering from errors for placement offset: https://youtu.be/7gfVNBQCjw8
+3) Demo for the workflow used LIRA: https://youtu.be/O79kiL-wjag
 # 1.Required environment:
 clone the docker image and activate it:
 ```bash
