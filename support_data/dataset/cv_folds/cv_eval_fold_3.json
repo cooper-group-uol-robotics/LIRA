@@ -1,0 +1,1318 @@
+[
+  {
+    "system_prompt": "You are an AI vision inspector in a self-driving lab to help chemists with inspecting robot manipulation error.",
+    "image": "image_20250122_171515.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>Has the door been closed properly?"
+      },
+      {
+        "from": "gpt",
+        "value": "False"
+      }
+    ]
+  },
+  {
+    "system_prompt": "You are an AI vision inspector in a self-driving lab to help chemists with inspecting robot manipulation error.",
+    "image": "image_20250122_171515.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>Has the door been opened properly?"
+      },
+      {
+        "from": "gpt",
+        "value": "False"
+      }
+    ]
+  },
+  {
+    "system_prompt": "You are an AI vision inspector in a self-driving lab to help chemists with inspecting robot manipulation error.",
+    "image": "image_20250122_171337.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>Has the door been closed properly?"
+      },
+      {
+        "from": "gpt",
+        "value": "False"
+      }
+    ]
+  },
+  {
+    "system_prompt": "You are an AI vision inspector in a self-driving lab to help chemists with inspecting robot manipulation error.",
+    "image": "image_20250123_152831.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>Has the white 8-hole rack been placed onto the holder properly?"
+      },
+      {
+        "from": "gpt",
+        "value": "True"
+      }
+    ]
+  },
+  {
+    "system_prompt": "You are an AI vision inspector in a self-driving lab to help chemists with inspecting robot manipulation error.",
+    "image": "WIN_20250205_19_00_42_Pro_2.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>Has the black rack been placed onto the holder properly?"
+      },
+      {
+        "from": "gpt",
+        "value": "False. The black rack is slightly rotated and misaligned with the holder. It's unrecoverable."
+      }
+    ]
+  },
+  {
+    "system_prompt": "You are an AI vision inspector in a self-driving lab to help chemists with inspecting robot manipulation error.",
+    "image": "WIN_20250205_19_00_33_Pro_.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>Has the black rack been placed onto the holder properly?"
+      },
+      {
+        "from": "gpt",
+        "value": "False. The black rack is slightly rotated and misaligned with the holder. It's unrecoverable."
+      }
+    ]
+  },
+  {
+    "system_prompt": "You are an AI vision inspector in a self-driving lab to help chemists with inspecting robot manipulation error.",
+    "image": "WIN_20250205_19_00_42_Pro.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>Has the black rack been placed onto the holder properly?"
+      },
+      {
+        "from": "gpt",
+        "value": "False. The black rack is slightly rotated and misaligned with the holder. It's unrecoverable."
+      }
+    ]
+  },
+  {
+    "system_prompt": "You are an AI vision inspector in a self-driving lab to help chemists with inspecting robot manipulation error.",
+    "image": "WIN_20250205_19_00_33_Pro.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>Has the black rack been placed onto the holder properly?"
+      },
+      {
+        "from": "gpt",
+        "value": "False. The black rack is slightly rotated and misaligned with the holder. It's unrecoverable."
+      }
+    ]
+  },
+  {
+    "system_prompt": "You are an AI vision inspector in a self-driving lab to help chemists with inspecting robot manipulation error.",
+    "image": "image_20250122_172917.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>Has the black rack been placed onto the holder properly?"
+      },
+      {
+        "from": "gpt",
+        "value": "False. The black rack is slightly offset to the right and misaligned with the holder. It's recoverable."
+      }
+    ]
+  },
+  {
+    "system_prompt": "You are an AI vision inspector in a self-driving lab to help chemists with inspecting robot manipulation error.",
+    "image": "image_20250122_171519.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>Has the door been closed properly?"
+      },
+      {
+        "from": "gpt",
+        "value": "False"
+      }
+    ]
+  },
+  {
+    "system_prompt": "You are an AI vision inspector in a self-driving lab to help chemists with inspecting robot manipulation error.",
+    "image": "image_20250123_153041_4.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>Has the black rack been placed onto the holder properly?"
+      },
+      {
+        "from": "gpt",
+        "value": "False. The black rack is slightly offset to the left and misaligned with the holder. It's recoverable."
+      }
+    ]
+  },
+  {
+    "system_prompt": "You are an AI vision inspector in a self-driving lab to help chemists with inspecting robot manipulation error.",
+    "image": "image_20250123_153041_.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>Has the black rack been placed onto the holder properly?"
+      },
+      {
+        "from": "gpt",
+        "value": "False. The black rack is slightly offset to the left and misaligned with the holder. It's recoverable."
+      }
+    ]
+  },
+  {
+    "system_prompt": "You are an AI vision inspector in a self-driving lab to help chemists with inspecting robot manipulation error.",
+    "image": "image_20250123_152420_.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>Has the white 8-hole rack been placed onto the holder properly?"
+      },
+      {
+        "from": "gpt",
+        "value": "True"
+      }
+    ]
+  },
+  {
+    "system_prompt": "You are an AI vision inspector in a self-driving lab to help chemists with inspecting robot manipulation error.",
+    "image": "image_20250123_152440_.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>Has the white 8-hole rack been placed onto the holder properly?"
+      },
+      {
+        "from": "gpt",
+        "value": "False. The white rack is slightly offset to the right and misaligned with the holder. It's recoverable."
+      }
+    ]
+  },
+  {
+    "system_prompt": "You are an AI vision inspector in a self-driving lab to help chemists with inspecting robot manipulation error.",
+    "image": "image_20250122_171213_6.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>Has the door been opened properly?"
+      },
+      {
+        "from": "gpt",
+        "value": "True"
+      }
+    ]
+  },
+  {
+    "system_prompt": "You are an AI vision inspector in a self-driving lab to help chemists with inspecting robot manipulation error.",
+    "image": "image_20250122_171213_.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>Has the door been opened properly?"
+      },
+      {
+        "from": "gpt",
+        "value": "True"
+      }
+    ]
+  },
+  {
+    "system_prompt": "You are an AI vision inspector in a self-driving lab to help chemists with inspecting robot manipulation error.",
+    "image": "image_20250122_182655_.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>Has the white 8-hole rack been placed onto the holder properly?"
+      },
+      {
+        "from": "gpt",
+        "value": "False. The white rack is slightly offset to the forward and misaligned with the holder. It's recoverable."
+      }
+    ]
+  },
+  {
+    "system_prompt": "You are an AI vision inspector in a self-driving lab to help chemists with inspecting robot manipulation error.",
+    "image": "image_20250122_182655.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>Has the white 8-hole rack been placed onto the holder properly?"
+      },
+      {
+        "from": "gpt",
+        "value": "False. The white rack is slightly offset to the forward and misaligned with the holder. It's recoverable."
+      }
+    ]
+  },
+  {
+    "system_prompt": "You are an AI vision inspector in a self-driving lab to help chemists with inspecting robot manipulation error.",
+    "image": "image_20250122_182048.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>Has the white 8-hole rack been placed onto the holder properly?"
+      },
+      {
+        "from": "gpt",
+        "value": "True"
+      }
+    ]
+  },
+  {
+    "system_prompt": "You are an AI vision inspector in a self-driving lab to help chemists with inspecting robot manipulation error.",
+    "image": "image_20250122_170159.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>Has the black rack been placed onto the holder properly?"
+      },
+      {
+        "from": "gpt",
+        "value": "True"
+      }
+    ]
+  },
+  {
+    "system_prompt": "You are an AI vision inspector in a self-driving lab to help chemists with inspecting robot manipulation error.",
+    "image": "image_20250122_170159_3.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>Has the black rack been placed onto the holder properly?"
+      },
+      {
+        "from": "gpt",
+        "value": "True"
+      }
+    ]
+  },
+  {
+    "system_prompt": "You are an AI vision inspector in a self-driving lab to help chemists with inspecting robot manipulation error.",
+    "image": "image_20250123_153058_2.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>Has the black rack been placed onto the holder properly?"
+      },
+      {
+        "from": "gpt",
+        "value": "False. The black rack is slightly rotated and misaligned with the holder. It's unrecoverable."
+      }
+    ]
+  },
+  {
+    "system_prompt": "You are an AI vision inspector in a self-driving lab to help chemists with inspecting robot manipulation error.",
+    "image": "image_20250122_172907_3.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>Has the black rack been placed onto the holder properly?"
+      },
+      {
+        "from": "gpt",
+        "value": "False. The black rack is slightly offset to the left and misaligned with the holder. It's recoverable."
+      }
+    ]
+  },
+  {
+    "system_prompt": "You are an AI vision inspector in a self-driving lab to help chemists with inspecting robot manipulation error.",
+    "image": "image_20250122_170135.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>Has the black rack been placed onto the holder properly?"
+      },
+      {
+        "from": "gpt",
+        "value": "False. The black rack is slightly rotated and misaligned with the holder. It's unrecoverable."
+      }
+    ]
+  },
+  {
+    "system_prompt": "You are an AI vision inspector in a self-driving lab to help chemists with inspecting robot manipulation error.",
+    "image": "image_20250122_171214_7.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>Has the door been opened properly?"
+      },
+      {
+        "from": "gpt",
+        "value": "True"
+      }
+    ]
+  },
+  {
+    "system_prompt": "You are an AI vision inspector in a self-driving lab to help chemists with inspecting robot manipulation error.",
+    "image": "image_20250122_182627.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>Has the white 8-hole rack been placed onto the holder properly?"
+      },
+      {
+        "from": "gpt",
+        "value": "True"
+      }
+    ]
+  },
+  {
+    "system_prompt": "You are an AI vision inspector in a self-driving lab to help chemists with inspecting robot manipulation error.",
+    "image": "image_20250122_171412.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>Has the door been opened properly?"
+      },
+      {
+        "from": "gpt",
+        "value": "False"
+      }
+    ]
+  },
+  {
+    "system_prompt": "You are an AI vision inspector in a self-driving lab to help chemists with inspecting robot manipulation error.",
+    "image": "image_20250122_182708.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>Has the white 8-hole rack been placed onto the holder properly?"
+      },
+      {
+        "from": "gpt",
+        "value": "False. The white rack is slightly offset to the back and misaligned with the holder. It's recoverable."
+      }
+    ]
+  },
+  {
+    "system_prompt": "You are an AI vision inspector in a self-driving lab to help chemists with inspecting robot manipulation error.",
+    "image": "image_20250122_171348.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>Has the door been opened properly?"
+      },
+      {
+        "from": "gpt",
+        "value": "False"
+      }
+    ]
+  },
+  {
+    "system_prompt": "You are an AI vision inspector in a self-driving lab to help chemists with inspecting robot manipulation error.",
+    "image": "image_20250123_152503.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>Has the white 8-hole rack been placed onto the holder properly?"
+      },
+      {
+        "from": "gpt",
+        "value": "False. The white rack is slightly offset to the forward and misaligned with the holder. It's recoverable."
+      }
+    ]
+  },
+  {
+    "system_prompt": "You are an AI vision inspector in a self-driving lab to help chemists with inspecting robot manipulation error.",
+    "image": "image_20250122_170117_.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>Has the black rack been placed onto the holder properly?"
+      },
+      {
+        "from": "gpt",
+        "value": "True"
+      }
+    ]
+  },
+  {
+    "system_prompt": "You are an AI vision inspector in a self-driving lab to help chemists with inspecting robot manipulation error.",
+    "image": "image_20250122_170117_5.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>Has the black rack been placed onto the holder properly?"
+      },
+      {
+        "from": "gpt",
+        "value": "True"
+      }
+    ]
+  },
+  {
+    "system_prompt": "You are an AI vision inspector in a self-driving lab to help chemists with inspecting robot manipulation error.",
+    "image": "WIN_20250205_18_48_33_Pro.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>Has the white long rack been placed onto the holder properly?"
+      },
+      {
+        "from": "gpt",
+        "value": "True"
+      }
+    ]
+  },
+  {
+    "system_prompt": "You are an AI vision inspector in a self-driving lab to help chemists with inspecting robot manipulation error.",
+    "image": "WIN_20250205_18_48_33_Pro_.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>Has the white long rack been placed onto the holder properly?"
+      },
+      {
+        "from": "gpt",
+        "value": "True"
+      }
+    ]
+  },
+  {
+    "system_prompt": "You are an AI vision inspector in a self-driving lab to help chemists with inspecting robot manipulation error.",
+    "image": "WIN_20250205_18_49_16_Pro_2.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>Has the white long rack been placed onto the holder properly?"
+      },
+      {
+        "from": "gpt",
+        "value": "True"
+      }
+    ]
+  },
+  {
+    "system_prompt": "You are an AI vision inspector in a self-driving lab to help chemists with inspecting robot manipulation error.",
+    "image": "WIN_20250205_18_48_07_Pro.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>Has the white long rack been placed onto the holder properly?"
+      },
+      {
+        "from": "gpt",
+        "value": "True"
+      }
+    ]
+  },
+  {
+    "system_prompt": "You are an AI vision inspector in a self-driving lab to help chemists with inspecting robot manipulation error.",
+    "image": "WIN_20250205_18_52_23_Pro.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>Has the white long rack been placed onto the holder properly?"
+      },
+      {
+        "from": "gpt",
+        "value": "False. The right long rack is slightly tilted and misaligned with the holder. It's unrecoverable."
+      }
+    ]
+  },
+  {
+    "system_prompt": "You are an AI vision inspector in a self-driving lab to help chemists with inspecting robot manipulation error.",
+    "image": "WIN_20250205_18_51_32_Pro_.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>Has the white long rack been placed onto the holder properly?"
+      },
+      {
+        "from": "gpt",
+        "value": "False. The right long rack is tilted and misaligned with the holder. It's unrecoverable."
+      }
+    ]
+  },
+  {
+    "system_prompt": "You are an AI vision inspector in a self-driving lab to help chemists with inspecting robot manipulation error.",
+    "image": "WIN_20250205_18_50_21_Pro.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>Has the white long rack been placed onto the holder properly?"
+      },
+      {
+        "from": "gpt",
+        "value": "False. The right long rack is tilted and misaligned with the holder. It's unrecoverable."
+      }
+    ]
+  },
+  {
+    "system_prompt": "You are an AI vision inspector in a self-driving lab to help chemists with inspecting robot manipulation error.",
+    "image": "WIN_20250205_18_50_21_Pro_.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>Has the white long rack been placed onto the holder properly?"
+      },
+      {
+        "from": "gpt",
+        "value": "False. The right long rack is tilted and misaligned with the holder. It's unrecoverable."
+      }
+    ]
+  },
+  {
+    "system_prompt": "You are an AI vision inspector in a self-driving lab to help chemists with inspecting robot manipulation error.",
+    "image": "WIN_20250205_18_50_52_Pro_3.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>Has the white long rack been placed onto the holder properly?"
+      },
+      {
+        "from": "gpt",
+        "value": "False. The right long rack is tilted and misaligned with the holder. It's unrecoverable."
+      }
+    ]
+  },
+  {
+    "system_prompt": "You are an AI vision inspector in a self-driving lab to help chemists with inspecting robot manipulation error.",
+    "image": "WIN_20250205_18_50_52_Pro_4.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>Has the white long rack been placed onto the holder properly?"
+      },
+      {
+        "from": "gpt",
+        "value": "False. The right long rack is tilted and misaligned with the holder. It's unrecoverable."
+      }
+    ]
+  },
+  {
+    "system_prompt": "You are an AI vision inspector in a self-driving lab to help chemists with inspecting robot manipulation error.",
+    "image": "WIN_20250205_18_49_42_Pro.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>Has the white long rack been placed onto the holder properly?"
+      },
+      {
+        "from": "gpt",
+        "value": "False. The right long rack is slightly tilted and misaligned with the holder. It's unrecoverable."
+      }
+    ]
+  },
+  {
+    "system_prompt": "You are an AI vision inspector in a self-driving lab to help chemists with inspecting robot manipulation error.",
+    "image": "WIN_20250205_18_50_34_Pro.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>Has the white long rack been placed onto the holder properly?"
+      },
+      {
+        "from": "gpt",
+        "value": "False. The right long rack is tilted and misaligned with the holder. It's unrecoverable."
+      }
+    ]
+  },
+  {
+    "system_prompt": "You are an AI vision inspector in a self-driving lab to help chemists with inspecting robot manipulation error.",
+    "image": "WIN_20250205_18_51_47_Pro.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>Has the white long rack been placed onto the holder properly?"
+      },
+      {
+        "from": "gpt",
+        "value": "False. The right long rack is slightly tilted and misaligned with the holder. It's unrecoverable."
+      }
+    ]
+  },
+  {
+    "system_prompt": "You are an AI vision inspector in a self-driving lab to help chemists with inspecting robot manipulation error.",
+    "image": "WIN_20250205_18_49_35_Pro.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>Has the white long rack been placed onto the holder properly?"
+      },
+      {
+        "from": "gpt",
+        "value": "False. The right long rack is slightly tilted and misaligned with the holder. It's unrecoverable."
+      }
+    ]
+  },
+  {
+    "system_prompt": "You are an AI vision inspector in a self-driving lab to help chemists with inspecting robot manipulation error.",
+    "image": "WIN_20250205_18_52_36_Pro.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>Has the white long rack been placed onto the holder properly?"
+      },
+      {
+        "from": "gpt",
+        "value": "False. The right long rack is slightly tilted and misaligned with the holder. It's unrecoverable."
+      }
+    ]
+  },
+  {
+    "system_prompt": "You are an AI vision inspector in a self-driving lab to help chemists with inspecting robot manipulation error.",
+    "image": "WIN_20250205_18_57_06_Pro_4.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>Has the black rack been placed onto the holder properly?"
+      },
+      {
+        "from": "gpt",
+        "value": "True"
+      }
+    ]
+  },
+  {
+    "system_prompt": "You are an AI vision inspector in a self-driving lab to help chemists with inspecting robot manipulation error.",
+    "image": "WIN_20250205_18_58_01_Pro_3.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>Has the black rack been placed onto the holder properly?"
+      },
+      {
+        "from": "gpt",
+        "value": "True"
+      }
+    ]
+  },
+  {
+    "system_prompt": "You are an AI vision inspector in a self-driving lab to help chemists with inspecting robot manipulation error.",
+    "image": "WIN_20250205_18_57_06_Pro_5.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>Has the black rack been placed onto the holder properly?"
+      },
+      {
+        "from": "gpt",
+        "value": "True"
+      }
+    ]
+  },
+  {
+    "system_prompt": "You are an AI vision inspector in a self-driving lab to help chemists with inspecting robot manipulation error.",
+    "image": "WIN_20250205_18_57_06_Pro_2.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>Has the black rack been placed onto the holder properly?"
+      },
+      {
+        "from": "gpt",
+        "value": "True"
+      }
+    ]
+  },
+  {
+    "system_prompt": "You are an AI vision inspector in a self-driving lab to help chemists with inspecting robot manipulation error.",
+    "image": "WIN_20250205_18_59_42_Pro.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>Has the black rack been placed onto the holder properly?"
+      },
+      {
+        "from": "gpt",
+        "value": "False. The black rack is slightly rotated and misaligned with the holder. It's unrecoverable."
+      }
+    ]
+  },
+  {
+    "system_prompt": "You are an AI vision inspector in a self-driving lab to help chemists with inspecting robot manipulation error.",
+    "image": "image_20250122_170157_.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>Has the black rack been placed onto the holder properly?"
+      },
+      {
+        "from": "gpt",
+        "value": "True"
+      }
+    ]
+  },
+  {
+    "system_prompt": "You are an AI vision inspector in a self-driving lab to help chemists with inspecting robot manipulation error.",
+    "image": "image_20250122_182702_.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>Has the white 8-hole rack been placed onto the holder properly?"
+      },
+      {
+        "from": "gpt",
+        "value": "False. The white rack is slightly offset to the back and misaligned with the holder. It's recoverable."
+      }
+    ]
+  },
+  {
+    "system_prompt": "You are an AI vision inspector in a self-driving lab to help chemists with inspecting robot manipulation error.",
+    "image": "image_20250123_153035_8.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>Has the black rack been placed onto the holder properly?"
+      },
+      {
+        "from": "gpt",
+        "value": "True"
+      }
+    ]
+  },
+  {
+    "system_prompt": "You are an AI vision inspector in a self-driving lab to help chemists with inspecting robot manipulation error.",
+    "image": "image_20250123_153035.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>Has the black rack been placed onto the holder properly?"
+      },
+      {
+        "from": "gpt",
+        "value": "True"
+      }
+    ]
+  },
+  {
+    "system_prompt": "You are an AI vision inspector in a self-driving lab to help chemists with inspecting robot manipulation error.",
+    "image": "image_20250123_153035_7.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>Has the black rack been placed onto the holder properly?"
+      },
+      {
+        "from": "gpt",
+        "value": "True"
+      }
+    ]
+  },
+  {
+    "system_prompt": "You are an AI vision inspector in a self-driving lab to help chemists with inspecting robot manipulation error.",
+    "image": "image_20250122_173035.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>Has the black rack been placed onto the holder properly?"
+      },
+      {
+        "from": "gpt",
+        "value": "False. The black rack is slightly rotated and misaligned with the holder. It's unrecoverable."
+      }
+    ]
+  },
+  {
+    "system_prompt": "You are an AI vision inspector in a self-driving lab to help chemists with inspecting robot manipulation error.",
+    "image": "image_20250122_182056_.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>Has the white 8-hole rack been placed onto the holder properly?"
+      },
+      {
+        "from": "gpt",
+        "value": "False. The white rack is slightly offset to the left and misaligned with the holder. It's recoverable."
+      }
+    ]
+  },
+  {
+    "system_prompt": "You are an AI vision inspector in a self-driving lab to help chemists with inspecting robot manipulation error.",
+    "image": "image_20250122_171629.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>Has the door been opened properly?"
+      },
+      {
+        "from": "gpt",
+        "value": "False"
+      }
+    ]
+  },
+  {
+    "system_prompt": "You are an AI vision inspector in a self-driving lab to help chemists with inspecting robot manipulation error.",
+    "image": "image_20250123_152417_2.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>Has the white 8-hole rack been placed onto the holder properly?"
+      },
+      {
+        "from": "gpt",
+        "value": "True"
+      }
+    ]
+  },
+  {
+    "system_prompt": "You are an AI vision inspector in a self-driving lab to help chemists with inspecting robot manipulation error.",
+    "image": "image_20250122_182102_2.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>Has the white 8-hole rack been placed onto the holder properly?"
+      },
+      {
+        "from": "gpt",
+        "value": "False. The white rack is slightly offset to the right and misaligned with the holder. It's recoverable."
+      }
+    ]
+  },
+  {
+    "system_prompt": "You are an AI vision inspector in a self-driving lab to help chemists with inspecting robot manipulation error.",
+    "image": "image_20250122_171210_4.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>Has the door been opened properly?"
+      },
+      {
+        "from": "gpt",
+        "value": "True"
+      }
+    ]
+  },
+  {
+    "system_prompt": "You are an AI vision inspector in a self-driving lab to help chemists with inspecting robot manipulation error.",
+    "image": "image_20250122_171210.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>Has the door been opened properly?"
+      },
+      {
+        "from": "gpt",
+        "value": "True"
+      }
+    ]
+  },
+  {
+    "system_prompt": "You are an AI vision inspector in a self-driving lab to help chemists with inspecting robot manipulation error.",
+    "image": "image_20250122_171400_5.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>Has the door been closed properly?"
+      },
+      {
+        "from": "gpt",
+        "value": "True"
+      }
+    ]
+  },
+  {
+    "system_prompt": "You are an AI vision inspector in a self-driving lab to help chemists with inspecting robot manipulation error.",
+    "image": "image_20250122_171400_10.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>Has the door been closed properly?"
+      },
+      {
+        "from": "gpt",
+        "value": "True"
+      }
+    ]
+  },
+  {
+    "system_prompt": "You are an AI vision inspector in a self-driving lab to help chemists with inspecting robot manipulation error.",
+    "image": "image_20250122_171400_9.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>Has the door been closed properly?"
+      },
+      {
+        "from": "gpt",
+        "value": "True"
+      }
+    ]
+  },
+  {
+    "system_prompt": "You are an AI vision inspector in a self-driving lab to help chemists with inspecting robot manipulation error.",
+    "image": "image_20250122_171400_7.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>Has the door been closed properly?"
+      },
+      {
+        "from": "gpt",
+        "value": "True"
+      }
+    ]
+  },
+  {
+    "system_prompt": "You are an AI vision inspector in a self-driving lab to help chemists with inspecting robot manipulation error.",
+    "image": "image_20250123_153053_4.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>Has the black rack been placed onto the holder properly?"
+      },
+      {
+        "from": "gpt",
+        "value": "False. The black rack is slightly offset to the back and misaligned with the holder. It's recoverable."
+      }
+    ]
+  },
+  {
+    "system_prompt": "You are an AI vision inspector in a self-driving lab to help chemists with inspecting robot manipulation error.",
+    "image": "image_20250123_153053_3.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>Has the black rack been placed onto the holder properly?"
+      },
+      {
+        "from": "gpt",
+        "value": "False. The black rack is slightly offset to the back and misaligned with the holder. It's recoverable."
+      }
+    ]
+  },
+  {
+    "system_prompt": "You are an AI vision inspector in a self-driving lab to help chemists with inspecting robot manipulation error.",
+    "image": "image_20250123_152422.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>Has the white 8-hole rack been placed onto the holder properly?"
+      },
+      {
+        "from": "gpt",
+        "value": "True"
+      }
+    ]
+  },
+  {
+    "system_prompt": "You are an AI vision inspector in a self-driving lab to help chemists with inspecting robot manipulation error.",
+    "image": "image_20250123_152448_2.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>Has the white 8-hole rack been placed onto the holder properly?"
+      },
+      {
+        "from": "gpt",
+        "value": "False. The white rack is slightly offset to the right and misaligned with the holder. It's recoverable."
+      }
+    ]
+  },
+  {
+    "system_prompt": "You are an AI vision inspector in a self-driving lab to help chemists with inspecting robot manipulation error.",
+    "image": "image_20250122_182716_.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>Has the white 8-hole rack been placed onto the holder properly?"
+      },
+      {
+        "from": "gpt",
+        "value": "False. The white rack is slightly offset to the left and misaligned with the holder. It's recoverable."
+      }
+    ]
+  },
+  {
+    "system_prompt": "You are an AI vision inspector in a self-driving lab to help chemists with inspecting robot manipulation error.",
+    "image": "image_20250122_182108_2.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>Has the white 8-hole rack been placed onto the holder properly?"
+      },
+      {
+        "from": "gpt",
+        "value": "False. The white rack is slightly offset to the back and misaligned with the holder. It's recoverable."
+      }
+    ]
+  },
+  {
+    "system_prompt": "You are an AI vision inspector in a self-driving lab to help chemists with inspecting robot manipulation error.",
+    "image": "image_20250122_182041_3.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>Has the white 8-hole rack been placed onto the holder properly?"
+      },
+      {
+        "from": "gpt",
+        "value": "True"
+      }
+    ]
+  },
+  {
+    "system_prompt": "You are an AI vision inspector in a self-driving lab to help chemists with inspecting robot manipulation error.",
+    "image": "image_20250123_153047_4.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>Has the black rack been placed onto the holder properly?"
+      },
+      {
+        "from": "gpt",
+        "value": "False. The black rack is slightly offset to the right and misaligned with the holder. It's recoverable."
+      }
+    ]
+  },
+  {
+    "system_prompt": "You are an AI vision inspector in a self-driving lab to help chemists with inspecting robot manipulation error.",
+    "image": "image_20250123_153047_.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>Has the black rack been placed onto the holder properly?"
+      },
+      {
+        "from": "gpt",
+        "value": "False. The black rack is slightly offset to the right and misaligned with the holder. It's recoverable."
+      }
+    ]
+  },
+  {
+    "system_prompt": "You are an AI vision inspector in a self-driving lab to help chemists with inspecting robot manipulation error.",
+    "image": "image_20250122_172836.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>Has the black rack been placed onto the holder properly?"
+      },
+      {
+        "from": "gpt",
+        "value": "True"
+      }
+    ]
+  },
+  {
+    "system_prompt": "You are an AI vision inspector in a self-driving lab to help chemists with inspecting robot manipulation error.",
+    "image": "image_20250122_170140_.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>Has the black rack been placed onto the holder properly?"
+      },
+      {
+        "from": "gpt",
+        "value": "False. The black rack is slightly offset to the right and back and misaligned with the holder. It's unrecoverable."
+      }
+    ]
+  },
+  {
+    "system_prompt": "You are an AI vision inspector in a self-driving lab to help chemists with inspecting robot manipulation error.",
+    "image": "image_20250122_182046_3.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>Has the white 8-hole rack been placed onto the holder properly?"
+      },
+      {
+        "from": "gpt",
+        "value": "True"
+      }
+    ]
+  },
+  {
+    "system_prompt": "You are an AI vision inspector in a self-driving lab to help chemists with inspecting robot manipulation error.",
+    "image": "image_20250122_171339.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>Has the door been opened properly?"
+      },
+      {
+        "from": "gpt",
+        "value": "False"
+      }
+    ]
+  },
+  {
+    "system_prompt": "You are an AI vision inspector in a self-driving lab to help chemists with inspecting robot manipulation error.",
+    "image": "image_20250122_171522.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>Has the door been closed properly?"
+      },
+      {
+        "from": "gpt",
+        "value": "False"
+      }
+    ]
+  },
+  {
+    "system_prompt": "You are an AI vision inspector in a self-driving lab to help chemists with inspecting robot manipulation error.",
+    "image": "image_20250122_173008.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>Has the black rack been placed onto the holder properly?"
+      },
+      {
+        "from": "gpt",
+        "value": "False. The black rack is slightly offset to the left and back and misaligned with the holder. It's unrecoverable."
+      }
+    ]
+  },
+  {
+    "system_prompt": "You are an AI vision inspector in a self-driving lab to help chemists with inspecting robot manipulation error.",
+    "image": "image_20250123_153033_8.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>Has the black rack been placed onto the holder properly?"
+      },
+      {
+        "from": "gpt",
+        "value": "True"
+      }
+    ]
+  },
+  {
+    "system_prompt": "You are an AI vision inspector in a self-driving lab to help chemists with inspecting robot manipulation error.",
+    "image": "image_20250122_182629.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>Has the white 8-hole rack been placed onto the holder properly?"
+      },
+      {
+        "from": "gpt",
+        "value": "True"
+      }
+    ]
+  },
+  {
+    "system_prompt": "You are an AI vision inspector in a self-driving lab to help chemists with inspecting robot manipulation error.",
+    "image": "image_20250122_172930.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>Has the black rack been placed onto the holder properly?"
+      },
+      {
+        "from": "gpt",
+        "value": "False. The black rack is slightly offset to the back and misaligned with the holder. It's recoverable."
+      }
+    ]
+  },
+  {
+    "system_prompt": "You are an AI vision inspector in a self-driving lab to help chemists with inspecting robot manipulation error.",
+    "image": "image_20250122_170216_2.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>Has the black rack been placed onto the holder properly?"
+      },
+      {
+        "from": "gpt",
+        "value": "False. The black rack is slightly offset to the forward and misaligned with the holder. It's recoverable."
+      }
+    ]
+  },
+  {
+    "system_prompt": "You are an AI vision inspector in a self-driving lab to help chemists with inspecting robot manipulation error.",
+    "image": "image_20250122_170216_6.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>Has the black rack been placed onto the holder properly?"
+      },
+      {
+        "from": "gpt",
+        "value": "False. The black rack is slightly offset to the forward and misaligned with the holder. It's recoverable."
+      }
+    ]
+  },
+  {
+    "system_prompt": "You are an AI vision inspector in a self-driving lab to help chemists with inspecting robot manipulation error.",
+    "image": "image_20250122_170216_11.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>Has the black rack been placed onto the holder properly?"
+      },
+      {
+        "from": "gpt",
+        "value": "False. The black rack is slightly offset to the forward and misaligned with the holder. It's recoverable."
+      }
+    ]
+  },
+  {
+    "system_prompt": "You are an AI vision inspector in a self-driving lab to help chemists with inspecting robot manipulation error.",
+    "image": "image_20250123_152424_2.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>Has the white 8-hole rack been placed onto the holder properly?"
+      },
+      {
+        "from": "gpt",
+        "value": "True"
+      }
+    ]
+  },
+  {
+    "system_prompt": "You are an AI vision inspector in a self-driving lab to help chemists with inspecting robot manipulation error.",
+    "image": "image_20250122_182704.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>Has the white 8-hole rack been placed onto the holder properly?"
+      },
+      {
+        "from": "gpt",
+        "value": "False. The white rack is slightly offset to the back and misaligned with the holder. It's recoverable."
+      }
+    ]
+  },
+  {
+    "system_prompt": "You are an AI vision inspector in a self-driving lab to help chemists with inspecting robot manipulation error.",
+    "image": "image_20250122_172919.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>Has the black rack been placed onto the holder properly?"
+      },
+      {
+        "from": "gpt",
+        "value": "False. The black rack is slightly offset to the right and misaligned with the holder. It's recoverable."
+      }
+    ]
+  },
+  {
+    "system_prompt": "You are an AI vision inspector in a self-driving lab to help chemists with inspecting robot manipulation error.",
+    "image": "image_20250122_172903_.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>Has the black rack been placed onto the holder properly?"
+      },
+      {
+        "from": "gpt",
+        "value": "False. The black rack is slightly offset to the left and misaligned with the holder. It's recoverable."
+      }
+    ]
+  },
+  {
+    "system_prompt": "You are an AI vision inspector in a self-driving lab to help chemists with inspecting robot manipulation error.",
+    "image": "image_20250122_182054_2.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>Has the white 8-hole rack been placed onto the holder properly?"
+      },
+      {
+        "from": "gpt",
+        "value": "False. The white rack is slightly offset to the left and misaligned with the holder. It's recoverable."
+      }
+    ]
+  }
+]

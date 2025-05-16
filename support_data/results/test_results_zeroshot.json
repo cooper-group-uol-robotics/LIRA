@@ -1,0 +1,855 @@
+{
+    "overall_success_rate": 0.429,
+    "placement_correct_samples": 73,
+    "direction_correct_samples": 24,
+    "recoverability_correct_samples": 24,
+    "total_samples": 94,
+    "samples": [
+        {
+            "question": "Has the black rack been placed onto the holder properly?",
+            "ground_truth": "True",
+            "generated": "The black rack has been placed onto the holder in a way that it is securely attached to the holder, ensuring that it does not move or shift during operation.",
+            "similarity": 0.024844720496894408,
+            "placement_correct": true,
+            "direction_correct": null,
+            "recoverability_correct": null
+        },
+        {
+            "question": "Has the black rack been placed onto the holder properly?",
+            "ground_truth": "False. The black rack is slightly rotated and misaligned with the holder. It's unrecoverable.",
+            "generated": "It seems like the black rack is not properly placed on the holder. It's not aligned properly and the rack is not in the correct position.",
+            "similarity": 0.46956521739130436,
+            "placement_correct": true,
+            "direction_correct": false,
+            "recoverability_correct": false
+        },
+        {
+            "question": "Has the black rack been placed onto the holder properly?",
+            "ground_truth": "True",
+            "generated": "The black rack has been placed onto the holder in a way that it is securely attached to the holder, ensuring that it does not move or shift during operation.",
+            "similarity": 0.024844720496894408,
+            "placement_correct": true,
+            "direction_correct": null,
+            "recoverability_correct": null
+        },
+        {
+            "question": "Has the black rack been placed onto the holder properly?",
+            "ground_truth": "False. The black rack is slightly rotated and misaligned with the holder. It's unrecoverable.",
+            "generated": "It seems like the black rack is not properly placed onto the holder. It's not aligned properly and the rack is not fully seated on the holder.",
+            "similarity": 0.4765957446808511,
+            "placement_correct": true,
+            "direction_correct": false,
+            "recoverability_correct": false
+        },
+        {
+            "question": "Has the black rack been placed onto the holder properly?",
+            "ground_truth": "False. The black rack is slightly rotated and misaligned with the holder. It's unrecoverable.",
+            "generated": "It seems like the black rack is not properly placed onto the holder. It's not aligned properly and the rack is not fully seated on the holder.",
+            "similarity": 0.4765957446808511,
+            "placement_correct": true,
+            "direction_correct": false,
+            "recoverability_correct": false
+        },
+        {
+            "question": "Has the black rack been placed onto the holder properly?",
+            "ground_truth": "False. The black rack is slightly rotated and misaligned with the holder. It's unrecoverable.",
+            "generated": "It seems like the black rack is not properly placed onto the holder. It's not aligned properly and the rack is not fully seated on the holder.",
+            "similarity": 0.4765957446808511,
+            "placement_correct": true,
+            "direction_correct": false,
+            "recoverability_correct": false
+        },
+        {
+            "question": "Has the black rack been placed onto the holder properly?",
+            "ground_truth": "False. The black rack is slightly rotated and misaligned with the holder. It's unrecoverable.",
+            "generated": "It seems like the black rack is not properly placed onto the holder. It's not aligned properly and the rack is not fully seated on the holder.",
+            "similarity": 0.4765957446808511,
+            "placement_correct": true,
+            "direction_correct": false,
+            "recoverability_correct": false
+        },
+        {
+            "question": "Has the black rack been placed onto the holder properly?",
+            "ground_truth": "False. The black rack is slightly rotated and misaligned with the holder. It's unrecoverable.",
+            "generated": "It seems like the black rack is not properly placed onto the holder. It's not aligned properly and the rack is not fully seated on the holder.",
+            "similarity": 0.4765957446808511,
+            "placement_correct": true,
+            "direction_correct": false,
+            "recoverability_correct": false
+        },
+        {
+            "question": "Has the white 8-hole rack been placed onto the holder properly?",
+            "ground_truth": "False. The white rack is slightly offset to the forward and misaligned with the holder. It's recoverable.",
+            "generated": "The white rack is not properly placed onto the holder. It is slightly offset to the forward and misaligned with the holder. It's recoverable.",
+            "similarity": 0.7967479674796748,
+            "placement_correct": true,
+            "direction_correct": true,
+            "recoverability_correct": true
+        },
+        {
+            "question": "Has the black rack been placed onto the holder properly?",
+            "ground_truth": "False. The black rack is slightly offset to the left and misaligned with the holder. It's recoverable.",
+            "generated": "The rack is not properly aligned with the holder. It should be placed in a straight line to ensure proper alignment and stability.",
+            "similarity": 0.4396551724137931,
+            "placement_correct": true,
+            "direction_correct": false,
+            "recoverability_correct": false
+        },
+        {
+            "question": "Has the black rack been placed onto the holder properly?",
+            "ground_truth": "False. The black rack is slightly offset to the left and misaligned with the holder. It's recoverable.",
+            "generated": "The rack is not properly aligned with the holder. It should be placed in a straight line to ensure proper alignment and stability.",
+            "similarity": 0.4396551724137931,
+            "placement_correct": true,
+            "direction_correct": false,
+            "recoverability_correct": false
+        },
+        {
+            "question": "Has the white 8-hole rack been placed onto the holder properly?",
+            "ground_truth": "False. The white rack is slightly offset to the right and misaligned with the holder. It's recoverable.",
+            "generated": "The white rack is not properly placed onto the holder. It is slightly offset to the right and misaligned with the holder. It is recoverable.",
+            "similarity": 0.7818930041152263,
+            "placement_correct": true,
+            "direction_correct": true,
+            "recoverability_correct": true
+        },
+        {
+            "question": "Has the white 8-hole rack been placed onto the holder properly?",
+            "ground_truth": "False. The white rack is slightly offset to the back and misaligned with the holder. It's recoverable.",
+            "generated": "The white rack is placed on the holder in a way that it is properly aligned and in the correct position.",
+            "similarity": 0.4368932038834951,
+            "placement_correct": false,
+            "direction_correct": false,
+            "recoverability_correct": false
+        },
+        {
+            "question": "Has the white 8-hole rack been placed onto the holder properly?",
+            "ground_truth": "False. The white rack is slightly offset to the back and misaligned with the holder. It's recoverable.",
+            "generated": "The white rack is placed on the holder in a way that it is properly aligned and in the correct position.",
+            "similarity": 0.4368932038834951,
+            "placement_correct": false,
+            "direction_correct": false,
+            "recoverability_correct": false
+        },
+        {
+            "question": "Has the door been opened properly?",
+            "ground_truth": "True",
+            "generated": "The door appears to be open, as indicated by the visible hinges and the absence of any obstruction or obstruction in the way.",
+            "similarity": 0.06201550387596899,
+            "placement_correct": null,
+            "direction_correct": null,
+            "recoverability_correct": null
+        },
+        {
+            "question": "Has the door been opened properly?",
+            "ground_truth": "True",
+            "generated": "The door appears to be open, as indicated by the visible hinges and the absence of any obstruction or obstruction in the way.",
+            "similarity": 0.06201550387596899,
+            "placement_correct": null,
+            "direction_correct": null,
+            "recoverability_correct": null
+        },
+        {
+            "question": "Has the black rack been placed onto the holder properly?",
+            "ground_truth": "True",
+            "generated": "The black rack has been placed onto the holder properly. The rack is securely fastened to the holder with screws, ensuring that it remains in place and does not move during operation.",
+            "similarity": 0.0213903743315508,
+            "placement_correct": true,
+            "direction_correct": null,
+            "recoverability_correct": null
+        },
+        {
+            "question": "Has the door been opened properly?",
+            "ground_truth": "False",
+            "generated": "The door appears to be closed in the image provided.",
+            "similarity": 0.14035087719298245,
+            "placement_correct": null,
+            "direction_correct": true,
+            "recoverability_correct": true
+        },
+        {
+            "question": "Has the door been closed properly?",
+            "ground_truth": "False",
+            "generated": "The door appears to be open, as indicated by the visible hinges and the absence of any visible signs of tampering or tampering with the door's locking mechanism.",
+            "similarity": 0.04819277108433735,
+            "placement_correct": null,
+            "direction_correct": true,
+            "recoverability_correct": true
+        },
+        {
+            "question": "Has the white 8-hole rack been placed onto the holder properly?",
+            "ground_truth": "False. The white rack is slightly rotated and misaligned with the holder. It's unrecoverable.",
+            "generated": "It seems like the rack is not properly placed on the holder. It's not aligned properly and the rack is not fully integrated into the holder.",
+            "similarity": 0.4206008583690987,
+            "placement_correct": true,
+            "direction_correct": false,
+            "recoverability_correct": false
+        },
+        {
+            "question": "Has the door been opened properly?",
+            "ground_truth": "True",
+            "generated": "The door appears to be open, as indicated by the visible hinges and the absence of any obstruction or obstruction in the way.",
+            "similarity": 0.06201550387596899,
+            "placement_correct": null,
+            "direction_correct": null,
+            "recoverability_correct": null
+        },
+        {
+            "question": "Has the white 8-hole rack been placed onto the holder properly?",
+            "ground_truth": "True",
+            "generated": "The white 8-hole rack has been placed onto the holder properly. The rack is positioned correctly in the holder, with the holes evenly spaced and aligned. This ensures that the rack is securely attached and that the holder is stable and secure.",
+            "similarity": 0.016194331983805668,
+            "placement_correct": true,
+            "direction_correct": null,
+            "recoverability_correct": null
+        },
+        {
+            "question": "Has the door been closed properly?",
+            "ground_truth": "True",
+            "generated": "The door appears to be closed properly, as there are no visible signs of tampering or damage. The door is securely shut, and there are no signs of wear or damage that would indicate it has been tampered with.",
+            "similarity": 0.018867924528301886,
+            "placement_correct": true,
+            "direction_correct": null,
+            "recoverability_correct": null
+        },
+        {
+            "question": "Has the door been closed properly?",
+            "ground_truth": "True",
+            "generated": "The door appears to be closed properly, as there are no visible signs of tampering or damage to the door. The door is securely closed, and there are no signs of wear or damage that would indicate it has been tampered with.",
+            "similarity": 0.017699115044247787,
+            "placement_correct": true,
+            "direction_correct": null,
+            "recoverability_correct": null
+        },
+        {
+            "question": "Has the door been closed properly?",
+            "ground_truth": "True",
+            "generated": "The door appears to be closed properly, as there are no visible signs of tampering or damage to the door. The door is securely closed, and there are no signs of wear or damage that would indicate it has been tampered with.",
+            "similarity": 0.017699115044247787,
+            "placement_correct": true,
+            "direction_correct": null,
+            "recoverability_correct": null
+        },
+        {
+            "question": "Has the door been closed properly?",
+            "ground_truth": "True",
+            "generated": "The door appears to be closed properly, as there are no visible signs of tampering or damage. The door is securely shut, and there are no signs of wear or damage that would indicate it has been tampered with.",
+            "similarity": 0.018867924528301886,
+            "placement_correct": true,
+            "direction_correct": null,
+            "recoverability_correct": null
+        },
+        {
+            "question": "Has the black rack been placed onto the holder properly?",
+            "ground_truth": "True",
+            "generated": "The black rack has been placed onto the holder properly. The rack is securely mounted on the holder, ensuring that it is stable and stable. The rack is positioned at an angle, which is a good practice to prevent any accidental movement or tilt. The holder is also securely fastened to the rack, which is important for maintaining the integrity of the rack and preventing any damage to the rack or the holder. Overall, the rack has been placed onto the holder in a way that ensures stability and proper alignment.",
+            "similarity": 0.007751937984496124,
+            "placement_correct": true,
+            "direction_correct": null,
+            "recoverability_correct": null
+        },
+        {
+            "question": "Has the white 8-hole rack been placed onto the holder properly?",
+            "ground_truth": "False. The white rack is slightly offset to the back and misaligned with the holder. It's recoverable.",
+            "generated": "The white rack is not properly aligned with the holder. It is slightly offset to the back and misaligned with the holder.",
+            "similarity": 0.6905829596412556,
+            "placement_correct": true,
+            "direction_correct": true,
+            "recoverability_correct": false
+        },
+        {
+            "question": "Has the white 8-hole rack been placed onto the holder properly?",
+            "ground_truth": "False. The white rack is slightly offset to the forward and misaligned with the holder. It's recoverable.",
+            "generated": "The white rack is not properly placed onto the holder. It is slightly offset to the forward and misaligned with the holder. It's recoverable.",
+            "similarity": 0.7967479674796748,
+            "placement_correct": true,
+            "direction_correct": true,
+            "recoverability_correct": true
+        },
+        {
+            "question": "Has the black rack been placed onto the holder properly?",
+            "ground_truth": "False. The black rack is slightly offset to the left and misaligned with the holder. It's recoverable.",
+            "generated": "The black rack is not properly placed onto the holder. It should be placed on the holder in a straight line, with the rack aligned with the holder's center.",
+            "similarity": 0.5348837209302325,
+            "placement_correct": true,
+            "direction_correct": false,
+            "recoverability_correct": false
+        },
+        {
+            "question": "Has the white 8-hole rack been placed onto the holder properly?",
+            "ground_truth": "True",
+            "generated": "The white 8-hole rack has been placed onto the holder properly. The rack is securely fastened to the holder with screws, ensuring that it remains in place and does not move during operation.",
+            "similarity": 0.020618556701030927,
+            "placement_correct": true,
+            "direction_correct": null,
+            "recoverability_correct": null
+        },
+        {
+            "question": "Has the black rack been placed onto the holder properly?",
+            "ground_truth": "False. The black rack is slightly offset to the back and misaligned with the holder. It's recoverable.",
+            "generated": "The black rack is not properly placed onto the holder. It is not aligned with the holder and is not recoverable.",
+            "similarity": 0.6915887850467289,
+            "placement_correct": true,
+            "direction_correct": false,
+            "recoverability_correct": true
+        },
+        {
+            "question": "Has the white long rack been placed onto the holder properly?",
+            "ground_truth": "True",
+            "generated": "The white long rack has been placed onto the holder in a way that it is properly aligned and positioned for optimal use.",
+            "similarity": 0.03225806451612903,
+            "placement_correct": true,
+            "direction_correct": null,
+            "recoverability_correct": null
+        },
+        {
+            "question": "Has the white long rack been placed onto the holder properly?",
+            "ground_truth": "True",
+            "generated": "The white long rack has been placed onto the holder in a way that it is properly aligned and positioned.",
+            "similarity": 0.037037037037037035,
+            "placement_correct": true,
+            "direction_correct": null,
+            "recoverability_correct": null
+        },
+        {
+            "question": "Has the white long rack been placed onto the holder properly?",
+            "ground_truth": "True",
+            "generated": "The white long rack has been placed onto the holder properly.",
+            "similarity": 0.06153846153846154,
+            "placement_correct": true,
+            "direction_correct": null,
+            "recoverability_correct": null
+        },
+        {
+            "question": "Has the white long rack been placed onto the holder properly?",
+            "ground_truth": "False. The right long rack is slightly tilted and misaligned with the holder. It's unrecoverable.",
+            "generated": "The white long rack is properly placed onto the holder.",
+            "similarity": 0.5394736842105263,
+            "placement_correct": false,
+            "direction_correct": false,
+            "recoverability_correct": false
+        },
+        {
+            "question": "Has the white long rack been placed onto the holder properly?",
+            "ground_truth": "False. The right long rack is tilted and misaligned with the holder. It's unrecoverable.",
+            "generated": "The white long rack is not properly placed onto the holder. It is tilted and misaligned with the holder.",
+            "similarity": 0.6041666666666666,
+            "placement_correct": true,
+            "direction_correct": false,
+            "recoverability_correct": false
+        },
+        {
+            "question": "Has the white long rack been placed onto the holder properly?",
+            "ground_truth": "False. The right long rack is tilted and misaligned with the holder. It's unrecoverable.",
+            "generated": "The white long rack is not properly placed onto the holder. It is tilted and misaligned with the holder.",
+            "similarity": 0.6041666666666666,
+            "placement_correct": true,
+            "direction_correct": false,
+            "recoverability_correct": false
+        },
+        {
+            "question": "Has the white long rack been placed onto the holder properly?",
+            "ground_truth": "False. The right long rack is tilted and misaligned with the holder. It's unrecoverable.",
+            "generated": "The white long rack is not properly placed onto the holder. It is tilted and misaligned with the holder.",
+            "similarity": 0.6041666666666666,
+            "placement_correct": true,
+            "direction_correct": false,
+            "recoverability_correct": false
+        },
+        {
+            "question": "Has the white long rack been placed onto the holder properly?",
+            "ground_truth": "False. The right long rack is slightly tilted and misaligned with the holder. It's unrecoverable.",
+            "generated": "The white long rack is properly placed onto the holder.",
+            "similarity": 0.5394736842105263,
+            "placement_correct": false,
+            "direction_correct": false,
+            "recoverability_correct": false
+        },
+        {
+            "question": "Has the white long rack been placed onto the holder properly?",
+            "ground_truth": "False. The right long rack is slightly tilted and misaligned with the holder. It's unrecoverable.",
+            "generated": "The white long rack is not properly placed onto the holder. It is tilted and misaligned.",
+            "similarity": 0.4972972972972973,
+            "placement_correct": true,
+            "direction_correct": false,
+            "recoverability_correct": false
+        },
+        {
+            "question": "Has the white long rack been placed onto the holder properly?",
+            "ground_truth": "False. The right long rack is slightly tilted and misaligned with the holder. It's unrecoverable.",
+            "generated": "The white long rack is properly placed onto the holder.",
+            "similarity": 0.5394736842105263,
+            "placement_correct": false,
+            "direction_correct": false,
+            "recoverability_correct": false
+        },
+        {
+            "question": "Has the black rack been placed onto the holder properly?",
+            "ground_truth": "True",
+            "generated": "The black rack has been placed onto the holder properly.",
+            "similarity": 0.06666666666666667,
+            "placement_correct": true,
+            "direction_correct": null,
+            "recoverability_correct": null
+        },
+        {
+            "question": "Has the black rack been placed onto the holder properly?",
+            "ground_truth": "True",
+            "generated": "The black rack has been placed onto the holder properly.",
+            "similarity": 0.06666666666666667,
+            "placement_correct": true,
+            "direction_correct": null,
+            "recoverability_correct": null
+        },
+        {
+            "question": "Has the black rack been placed onto the holder properly?",
+            "ground_truth": "False. The black rack is slightly rotated and misaligned with the holder. It's unrecoverable.",
+            "generated": "It seems like the black rack is not properly placed onto the holder. It's not aligned properly and the rack is not fully seated on the holder.",
+            "similarity": 0.4765957446808511,
+            "placement_correct": true,
+            "direction_correct": false,
+            "recoverability_correct": false
+        },
+        {
+            "question": "Has the black rack been placed onto the holder properly?",
+            "ground_truth": "False. The black rack is slightly offset to the right and misaligned with the holder. It's recoverable.",
+            "generated": "The black rack is not properly placed onto the holder. It should be placed in a straight line and aligned with the holder.",
+            "similarity": 0.5777777777777777,
+            "placement_correct": true,
+            "direction_correct": false,
+            "recoverability_correct": false
+        },
+        {
+            "question": "Has the black rack been placed onto the holder properly?",
+            "ground_truth": "True",
+            "generated": "The black rack has been placed onto the holder in a way that it is securely attached to the holder, ensuring that it is stable and stable.",
+            "similarity": 0.028169014084507043,
+            "placement_correct": true,
+            "direction_correct": null,
+            "recoverability_correct": null
+        },
+        {
+            "question": "Has the white 8-hole rack been placed onto the holder properly?",
+            "ground_truth": "True",
+            "generated": "The white 8-hole rack has been placed onto the holder properly. The rack is securely attached to the holder, ensuring that it remains stable and stable. The holes in the rack are evenly spaced and aligned, which is a crucial aspect of the rack's functionality. The rack appears to be securely fastened to the holder, indicating that it is properly placed and in place.",
+            "similarity": 0.021505376344086023,
+            "placement_correct": true,
+            "direction_correct": null,
+            "recoverability_correct": null
+        },
+        {
+            "question": "Has the white 8-hole rack been placed onto the holder properly?",
+            "ground_truth": "True",
+            "generated": "The white 8-hole rack has been placed onto the holder properly. The rack is securely attached to the holder, ensuring that it remains stable and stable. The holes in the rack are evenly spaced and aligned, which is a crucial aspect of the rack's functionality. The rack appears to be securely fastened to the holder, indicating that it is properly placed and in place.",
+            "similarity": 0.021505376344086023,
+            "placement_correct": true,
+            "direction_correct": null,
+            "recoverability_correct": null
+        },
+        {
+            "question": "Has the white 8-hole rack been placed onto the holder properly?",
+            "ground_truth": "True",
+            "generated": "The white 8-hole rack has been placed onto the holder properly. The rack is securely attached to the holder, ensuring that it remains stable and stable. The holes in the rack are evenly spaced and aligned, which is a crucial aspect of the rack's functionality. The rack appears to be securely fastened to the holder, indicating that it is properly placed and in place.",
+            "similarity": 0.021505376344086023,
+            "placement_correct": true,
+            "direction_correct": null,
+            "recoverability_correct": null
+        },
+        {
+            "question": "Has the black rack been placed onto the holder properly?",
+            "ground_truth": "False. The black rack is slightly offset to the right and misaligned with the holder. It's recoverable.",
+            "generated": "The black rack is not properly placed onto the holder. It should be placed in a straight line and aligned with the holder.",
+            "similarity": 0.5777777777777777,
+            "placement_correct": true,
+            "direction_correct": false,
+            "recoverability_correct": false
+        },
+        {
+            "question": "Has the black rack been placed onto the holder properly?",
+            "ground_truth": "True",
+            "generated": "The black rack has been placed onto the holder in a way that it is securely attached to the holder, ensuring that it does not move or shift during operation.",
+            "similarity": 0.024844720496894408,
+            "placement_correct": true,
+            "direction_correct": null,
+            "recoverability_correct": null
+        },
+        {
+            "question": "Has the black rack been placed onto the holder properly?",
+            "ground_truth": "True",
+            "generated": "The black rack has been placed onto the holder in a way that it is securely attached to the holder, ensuring that it does not move or shift during operation.",
+            "similarity": 0.024844720496894408,
+            "placement_correct": true,
+            "direction_correct": null,
+            "recoverability_correct": null
+        },
+        {
+            "question": "Has the black rack been placed onto the holder properly?",
+            "ground_truth": "True",
+            "generated": "The black rack has been placed onto the holder in a way that it is securely attached to the holder, ensuring that it does not move or shift during operation.",
+            "similarity": 0.024844720496894408,
+            "placement_correct": true,
+            "direction_correct": null,
+            "recoverability_correct": null
+        },
+        {
+            "question": "Has the white 8-hole rack been placed onto the holder properly?",
+            "ground_truth": "False. The white rack is slightly offset to the forward and misaligned with the holder. It's recoverable.",
+            "generated": "The white rack is not properly placed onto the holder. It is slightly offset to the forward and misaligned with the holder. It's recoverable.",
+            "similarity": 0.7967479674796748,
+            "placement_correct": true,
+            "direction_correct": true,
+            "recoverability_correct": true
+        },
+        {
+            "question": "Has the door been closed properly?",
+            "ground_truth": "False",
+            "generated": "The door appears to be open, as indicated by the visible hinges and the absence of any visible signs of tampering or damage.",
+            "similarity": 0.06201550387596899,
+            "placement_correct": null,
+            "direction_correct": true,
+            "recoverability_correct": true
+        },
+        {
+            "question": "Has the white 8-hole rack been placed onto the holder properly?",
+            "ground_truth": "True",
+            "generated": "The white 8-hole rack has been placed onto the holder properly. The rack is securely attached to the holder, ensuring that it is stable and stable. The holes in the rack are evenly spaced and aligned, which is a good indication of proper assembly.",
+            "similarity": 0.01593625498007968,
+            "placement_correct": true,
+            "direction_correct": null,
+            "recoverability_correct": null
+        },
+        {
+            "question": "Has the door been opened properly?",
+            "ground_truth": "False",
+            "generated": "The door appears to be slightly ajar, which could indicate that it has been opened improperly.",
+            "similarity": 0.020202020202020204,
+            "placement_correct": false,
+            "direction_correct": true,
+            "recoverability_correct": true
+        },
+        {
+            "question": "Has the white 8-hole rack been placed onto the holder properly?",
+            "ground_truth": "False. The white rack is slightly offset to the right and misaligned with the holder. It's recoverable.",
+            "generated": "The white rack is not properly placed onto the holder. It is slightly offset to the right and misaligned with the holder. It is recoverable.",
+            "similarity": 0.7818930041152263,
+            "placement_correct": true,
+            "direction_correct": true,
+            "recoverability_correct": true
+        },
+        {
+            "question": "Has the white 8-hole rack been placed onto the holder properly?",
+            "ground_truth": "False. The white rack is slightly offset to the right and misaligned with the holder. It's recoverable.",
+            "generated": "The white rack is not properly placed onto the holder. It is slightly offset to the right and misaligned with the holder. It is recoverable.",
+            "similarity": 0.7818930041152263,
+            "placement_correct": true,
+            "direction_correct": true,
+            "recoverability_correct": true
+        },
+        {
+            "question": "Has the white 8-hole rack been placed onto the holder properly?",
+            "ground_truth": "True",
+            "generated": "The white 8-hole rack has been placed onto the holder properly. The rack is securely attached to the holder, ensuring that it remains stable and stable. The holes in the rack are evenly spaced and aligned, which is a good indication of proper installation.",
+            "similarity": 0.015384615384615385,
+            "placement_correct": true,
+            "direction_correct": null,
+            "recoverability_correct": null
+        },
+        {
+            "question": "Has the white 8-hole rack been placed onto the holder properly?",
+            "ground_truth": "True",
+            "generated": "The white 8-hole rack has been placed onto the holder properly. The rack is securely attached to the holder, ensuring that it remains stable and stable. The holes in the rack are evenly spaced and aligned, which is a good indication of proper installation.",
+            "similarity": 0.015384615384615385,
+            "placement_correct": true,
+            "direction_correct": null,
+            "recoverability_correct": null
+        },
+        {
+            "question": "Has the black rack been placed onto the holder properly?",
+            "ground_truth": "True",
+            "generated": "The black rack has been placed onto the holder in a way that it is securely attached to the holder, ensuring that it does not move or shift during operation.",
+            "similarity": 0.024844720496894408,
+            "placement_correct": true,
+            "direction_correct": null,
+            "recoverability_correct": null
+        },
+        {
+            "question": "Has the door been opened properly?",
+            "ground_truth": "True",
+            "generated": "The door appears to be open, as indicated by the visible hinges and the absence of any obstruction or obstruction in the way.",
+            "similarity": 0.06201550387596899,
+            "placement_correct": null,
+            "direction_correct": null,
+            "recoverability_correct": null
+        },
+        {
+            "question": "Has the door been opened properly?",
+            "ground_truth": "True",
+            "generated": "The door appears to be open, as indicated by the visible hinges and the absence of any obstruction or obstruction in the way.",
+            "similarity": 0.06201550387596899,
+            "placement_correct": null,
+            "direction_correct": null,
+            "recoverability_correct": null
+        },
+        {
+            "question": "Has the door been opened properly?",
+            "ground_truth": "True",
+            "generated": "The door appears to be open, as indicated by the visible hinges and the absence of any obstruction or obstruction in the way.",
+            "similarity": 0.06201550387596899,
+            "placement_correct": null,
+            "direction_correct": null,
+            "recoverability_correct": null
+        },
+        {
+            "question": "Has the white 8-hole rack been placed onto the holder properly?",
+            "ground_truth": "True",
+            "generated": "The white 8-hole rack has been placed onto the holder properly. The rack is securely fastened to the holder with screws, ensuring that it is securely attached and stable.",
+            "similarity": 0.022988505747126436,
+            "placement_correct": true,
+            "direction_correct": null,
+            "recoverability_correct": null
+        },
+        {
+            "question": "Has the black rack been placed onto the holder properly?",
+            "ground_truth": "False. The black rack is slightly offset to the back and misaligned with the holder. It's recoverable.",
+            "generated": "The rack is not properly aligned with the holder. It should be placed in a straight line to ensure proper alignment and stability.",
+            "similarity": 0.4396551724137931,
+            "placement_correct": true,
+            "direction_correct": false,
+            "recoverability_correct": false
+        },
+        {
+            "question": "Has the white 8-hole rack been placed onto the holder properly?",
+            "ground_truth": "False. The white rack is slightly rotated and misaligned with the holder. It's unrecoverable.",
+            "generated": "It seems like the white rack is not properly placed on the holder. It's not aligned properly and the rack is not fully integrated into the holder.",
+            "similarity": 0.4602510460251046,
+            "placement_correct": true,
+            "direction_correct": false,
+            "recoverability_correct": false
+        },
+        {
+            "question": "Has the black rack been placed onto the holder properly?",
+            "ground_truth": "False. The black rack is slightly rotated and misaligned with the holder. It's unrecoverable.",
+            "generated": "The black rack is not properly placed onto the holder. It is tilted and not aligned properly.",
+            "similarity": 0.5483870967741935,
+            "placement_correct": true,
+            "direction_correct": false,
+            "recoverability_correct": false
+        },
+        {
+            "question": "Has the white 8-hole rack been placed onto the holder properly?",
+            "ground_truth": "True",
+            "generated": "The white 8-hole rack has been placed onto the holder properly. The rack is positioned correctly in the holder, with the holes evenly spaced and aligned. This ensures that the rack is securely attached and that the holder is stable and stable.",
+            "similarity": 0.016194331983805668,
+            "placement_correct": true,
+            "direction_correct": null,
+            "recoverability_correct": null
+        },
+        {
+            "question": "Has the black rack been placed onto the holder properly?",
+            "ground_truth": "False. The black rack is slightly rotated and misaligned with the holder. It's unrecoverable.",
+            "generated": "It seems like the black rack is not properly placed on the holder. It's not aligned properly and the rack is not in the correct position.",
+            "similarity": 0.46956521739130436,
+            "placement_correct": true,
+            "direction_correct": false,
+            "recoverability_correct": false
+        },
+        {
+            "question": "Has the door been opened properly?",
+            "ground_truth": "False",
+            "generated": "The door appears to be closed in the image provided.",
+            "similarity": 0.14035087719298245,
+            "placement_correct": null,
+            "direction_correct": true,
+            "recoverability_correct": true
+        },
+        {
+            "question": "Has the door been opened properly?",
+            "ground_truth": "False",
+            "generated": "The door appears to be slightly ajar, which could indicate that it has been opened improperly.",
+            "similarity": 0.020202020202020204,
+            "placement_correct": false,
+            "direction_correct": true,
+            "recoverability_correct": true
+        },
+        {
+            "question": "Has the white 8-hole rack been placed onto the holder properly?",
+            "ground_truth": "False. The white rack is slightly offset to the left and misaligned with the holder. It's recoverable.",
+            "generated": "The white rack is not properly placed onto the holder. It is slightly offset to the left and misaligned with the holder. It is recoverable.",
+            "similarity": 0.7800829875518672,
+            "placement_correct": true,
+            "direction_correct": true,
+            "recoverability_correct": true
+        },
+        {
+            "question": "Has the white 8-hole rack been placed onto the holder properly?",
+            "ground_truth": "True",
+            "generated": "The white 8-hole rack has been placed onto the holder properly. The rack is securely fastened to the holder with screws, ensuring that it is securely attached and stable.",
+            "similarity": 0.022988505747126436,
+            "placement_correct": true,
+            "direction_correct": null,
+            "recoverability_correct": null
+        },
+        {
+            "question": "Has the white 8-hole rack been placed onto the holder properly?",
+            "ground_truth": "False. The white rack is slightly offset to the left and misaligned with the holder. It's recoverable.",
+            "generated": "The white rack is not properly placed onto the holder. It is slightly offset to the left and misaligned with the holder. It is recoverable.",
+            "similarity": 0.7800829875518672,
+            "placement_correct": true,
+            "direction_correct": true,
+            "recoverability_correct": true
+        },
+        {
+            "question": "Has the black rack been placed onto the holder properly?",
+            "ground_truth": "False. The black rack is slightly offset to the right and back and misaligned with the holder. It's unrecoverable.",
+            "generated": "The black rack is not properly placed onto the holder. It should be placed in a straight line and aligned with the holder.",
+            "similarity": 0.5677966101694916,
+            "placement_correct": true,
+            "direction_correct": false,
+            "recoverability_correct": false
+        },
+        {
+            "question": "Has the door been closed properly?",
+            "ground_truth": "False",
+            "generated": "The door appears to be open, as indicated by the visible hinges and the absence of any visible signs of tampering or damage.",
+            "similarity": 0.06201550387596899,
+            "placement_correct": null,
+            "direction_correct": true,
+            "recoverability_correct": true
+        },
+        {
+            "question": "Has the door been opened properly?",
+            "ground_truth": "False",
+            "generated": "The door appears to be slightly ajar, which could indicate that it has been opened improperly.",
+            "similarity": 0.020202020202020204,
+            "placement_correct": false,
+            "direction_correct": true,
+            "recoverability_correct": true
+        },
+        {
+            "question": "Has the white 8-hole rack been placed onto the holder properly?",
+            "ground_truth": "False. The white rack is slightly offset to the forward and misaligned with the holder. It's recoverable.",
+            "generated": "The white rack is not properly placed onto the holder. It is slightly offset to the forward and misaligned with the holder. It's recoverable.",
+            "similarity": 0.7967479674796748,
+            "placement_correct": true,
+            "direction_correct": true,
+            "recoverability_correct": true
+        },
+        {
+            "question": "Has the door been closed properly?",
+            "ground_truth": "False",
+            "generated": "The door appears to be open, as indicated by the visible hinges and the absence of any visible signs of tampering or damage.",
+            "similarity": 0.06201550387596899,
+            "placement_correct": null,
+            "direction_correct": true,
+            "recoverability_correct": true
+        },
+        {
+            "question": "Has the white 8-hole rack been placed onto the holder properly?",
+            "ground_truth": "False. The white rack is slightly offset to the left and misaligned with the holder. It's recoverable.",
+            "generated": "The white rack is not properly aligned with the holder. It is slightly offset to the left and misaligned with the holder.",
+            "similarity": 0.6905829596412556,
+            "placement_correct": true,
+            "direction_correct": true,
+            "recoverability_correct": false
+        },
+        {
+            "question": "Has the black rack been placed onto the holder properly?",
+            "ground_truth": "True",
+            "generated": "The black rack has been placed onto the holder in a way that it is securely attached to the holder, ensuring that it does not move or shift during operation.",
+            "similarity": 0.024844720496894408,
+            "placement_correct": true,
+            "direction_correct": null,
+            "recoverability_correct": null
+        },
+        {
+            "question": "Has the black rack been placed onto the holder properly?",
+            "ground_truth": "True",
+            "generated": "The black rack has been placed onto the holder in a way that it is securely attached to the holder, ensuring that it does not move or shift during operation.",
+            "similarity": 0.024844720496894408,
+            "placement_correct": true,
+            "direction_correct": null,
+            "recoverability_correct": null
+        },
+        {
+            "question": "Has the black rack been placed onto the holder properly?",
+            "ground_truth": "True",
+            "generated": "The black rack has been placed onto the holder in a way that it is securely attached to the holder, ensuring that it does not move or shift during operation.",
+            "similarity": 0.024844720496894408,
+            "placement_correct": true,
+            "direction_correct": null,
+            "recoverability_correct": null
+        },
+        {
+            "question": "Has the white 8-hole rack been placed onto the holder properly?",
+            "ground_truth": "False. The white rack is slightly rotated and misaligned with the holder. It's unrecoverable.",
+            "generated": "It seems like the white rack is not properly placed on the holder. It's not aligned properly and the rack is not fully integrated into the holder.",
+            "similarity": 0.4602510460251046,
+            "placement_correct": true,
+            "direction_correct": false,
+            "recoverability_correct": false
+        },
+        {
+            "question": "Has the white 8-hole rack been placed onto the holder properly?",
+            "ground_truth": "False. The white rack is slightly rotated and misaligned with the holder. It's unrecoverable.",
+            "generated": "It seems like the white rack is not properly placed on the holder. It's not aligned properly and the rack is not fully integrated into the holder.",
+            "similarity": 0.4602510460251046,
+            "placement_correct": true,
+            "direction_correct": false,
+            "recoverability_correct": false
+        },
+        {
+            "question": "Has the black rack been placed onto the holder properly?",
+            "ground_truth": "False. The black rack is slightly offset to the forward and misaligned with the holder. It's recoverable.",
+            "generated": "The black rack is not properly placed onto the holder. It is slightly offset to the forward and misaligned with the holder. It's recoverable.",
+            "similarity": 0.7967479674796748,
+            "placement_correct": true,
+            "direction_correct": true,
+            "recoverability_correct": true
+        },
+        {
+            "question": "Has the black rack been placed onto the holder properly?",
+            "ground_truth": "False. The black rack is slightly offset to the forward and misaligned with the holder. It's recoverable.",
+            "generated": "The black rack is not properly placed onto the holder. It is slightly offset to the forward and misaligned with the holder. It is recoverable.",
+            "similarity": 0.7854251012145749,
+            "placement_correct": true,
+            "direction_correct": true,
+            "recoverability_correct": true
+        },
+        {
+            "question": "Has the black rack been placed onto the holder properly?",
+            "ground_truth": "False. The black rack is slightly offset to the forward and misaligned with the holder. It's recoverable.",
+            "generated": "The black rack is not properly placed onto the holder. It is slightly offset to the forward and misaligned with the holder. It's recoverable.",
+            "similarity": 0.7967479674796748,
+            "placement_correct": true,
+            "direction_correct": true,
+            "recoverability_correct": true
+        },
+        {
+            "question": "Has the black rack been placed onto the holder properly?",
+            "ground_truth": "False. The black rack is slightly offset to the back and misaligned with the holder. It's recoverable.",
+            "generated": "The black rack is not properly placed onto the holder. It is not aligned with the holder and is not recoverable.",
+            "similarity": 0.6915887850467289,
+            "placement_correct": true,
+            "direction_correct": false,
+            "recoverability_correct": true
+        },
+        {
+            "question": "Has the black rack been placed onto the holder properly?",
+            "ground_truth": "False. The black rack is slightly offset to the right and misaligned with the holder. It's recoverable.",
+            "generated": "The black rack is not properly placed onto the holder. It should be placed in a straight line and aligned with the holder.",
+            "similarity": 0.5777777777777777,
+            "placement_correct": true,
+            "direction_correct": false,
+            "recoverability_correct": false
+        },
+        {
+            "question": "Has the door been closed properly?",
+            "ground_truth": "False",
+            "generated": "The door appears to be open, as indicated by the visible hinges and the absence of any visible signs of tampering or damage.",
+            "similarity": 0.06201550387596899,
+            "placement_correct": null,
+            "direction_correct": true,
+            "recoverability_correct": true
+        }
+    ]
+}

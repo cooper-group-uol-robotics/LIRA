@@ -1,0 +1,665 @@
+{
+    "overall_success_rate": 97.87,
+    "correct_samples": 92,
+    "total_samples": 94,
+    "samples": [
+        {
+            "image": "image_20250122_172838_2.jpg",
+            "generated": "False. The black rack is slightly offset to the left and misaligned with the holder. It's recoverable.",
+            "ground_truth": "False. The black rack is slightly offset to the left and misaligned with the holder. It's recoverable.",
+            "similarity": 1.0,
+            "correct": true
+        },
+        {
+            "image": "image_20250122_170208.jpg",
+            "generated": "False. The black rack is slightly rotated and misaligned with the holder. It's unrecoverable.",
+            "ground_truth": "False. The black rack is slightly rotated and misaligned with the holder. It's unrecoverable.",
+            "similarity": 1.0,
+            "correct": true
+        },
+        {
+            "image": "image_20250122_172854_.jpg",
+            "generated": "False. The black rack is slightly offset to the left and misaligned with the holder. It's recoverable.",
+            "ground_truth": "False. The black rack is slightly offset to the left and misaligned with the holder. It's recoverable.",
+            "similarity": 1.0,
+            "correct": true
+        },
+        {
+            "image": "WIN_20250205_19_00_12_Pro.jpg",
+            "generated": "False. The black rack is slightly rotated and misaligned with the holder. It's unrecoverable.",
+            "ground_truth": "False. The black rack is slightly rotated and misaligned with the holder. It's unrecoverable.",
+            "similarity": 1.0,
+            "correct": true
+        },
+        {
+            "image": "WIN_20250205_19_00_26_Pro_2.jpg",
+            "generated": "False. The black rack is slightly rotated and misaligned with the holder. It's unrecoverable.",
+            "ground_truth": "False. The black rack is slightly rotated and misaligned with the holder. It's unrecoverable.",
+            "similarity": 1.0,
+            "correct": true
+        },
+        {
+            "image": "WIN_20250205_19_00_50_Pro_2.jpg",
+            "generated": "False. The black rack is slightly rotated and misaligned with the holder. It's unrecoverable.",
+            "ground_truth": "False. The black rack is slightly rotated and misaligned with the holder. It's unrecoverable.",
+            "similarity": 1.0,
+            "correct": true
+        },
+        {
+            "image": "WIN_20250205_19_00_19_Pro_2.jpg",
+            "generated": "False. The black rack is slightly rotated and misaligned with the holder. It's unrecoverable.",
+            "ground_truth": "False. The black rack is slightly rotated and misaligned with the holder. It's unrecoverable.",
+            "similarity": 1.0,
+            "correct": true
+        },
+        {
+            "image": "WIN_20250205_19_00_33_Pro_2.jpg",
+            "generated": "False. The black rack is slightly rotated and misaligned with the holder. It's unrecoverable.",
+            "ground_truth": "False. The black rack is slightly rotated and misaligned with the holder. It's unrecoverable.",
+            "similarity": 1.0,
+            "correct": true
+        },
+        {
+            "image": "image_20250122_182113.jpg",
+            "generated": "False. The white rack is slightly offset to the forward and misaligned with the holder. It's recoverable.",
+            "ground_truth": "False. The white rack is slightly offset to the forward and misaligned with the holder. It's recoverable.",
+            "similarity": 1.0,
+            "correct": true
+        },
+        {
+            "image": "image_20250123_153041_3.jpg",
+            "generated": "False. The black rack is slightly offset to the left and misaligned with the holder. It's recoverable.",
+            "ground_truth": "False. The black rack is slightly offset to the left and misaligned with the holder. It's recoverable.",
+            "similarity": 1.0,
+            "correct": true
+        },
+        {
+            "image": "image_20250123_153041.jpg",
+            "generated": "False. The black rack is slightly offset to the left and misaligned with the holder. It's recoverable.",
+            "ground_truth": "False. The black rack is slightly offset to the left and misaligned with the holder. It's recoverable.",
+            "similarity": 1.0,
+            "correct": true
+        },
+        {
+            "image": "image_20250123_152440_2.jpg",
+            "generated": "False. The white rack is slightly offset to the right and misaligned with the holder. It's recoverable.",
+            "ground_truth": "False. The white rack is slightly offset to the right and misaligned with the holder. It's recoverable.",
+            "similarity": 1.0,
+            "correct": true
+        },
+        {
+            "image": "image_20250123_152841_3.jpg",
+            "generated": "False. The white rack is slightly offset to the back and misaligned with the holder. It's recoverable.",
+            "ground_truth": "False. The white rack is slightly offset to the back and misaligned with the holder. It's recoverable.",
+            "similarity": 1.0,
+            "correct": true
+        },
+        {
+            "image": "image_20250123_152841_4.jpg",
+            "generated": "False. The white rack is slightly offset to the back and misaligned with the holder. It's recoverable.",
+            "ground_truth": "False. The white rack is slightly offset to the back and misaligned with the holder. It's recoverable.",
+            "similarity": 1.0,
+            "correct": true
+        },
+        {
+            "image": "image_20250122_171213_10.jpg",
+            "generated": "False",
+            "ground_truth": "True",
+            "similarity": 0.2222222222222222,
+            "correct": false
+        },
+        {
+            "image": "image_20250122_171213_3.jpg",
+            "generated": "False",
+            "ground_truth": "True",
+            "similarity": 0.2222222222222222,
+            "correct": false
+        },
+        {
+            "image": "image_20250122_170159_6.jpg",
+            "generated": "False. The black rack is slightly offset to the forward and misaligned with the holder. It's recoverable.",
+            "ground_truth": "False. The black rack is slightly offset to the forward and misaligned with the holder. It's recoverable.",
+            "similarity": 1.0,
+            "correct": true
+        },
+        {
+            "image": "image_20250122_171422.jpg",
+            "generated": "False",
+            "ground_truth": "False",
+            "similarity": 1.0,
+            "correct": true
+        },
+        {
+            "image": "image_20250122_171501.jpg",
+            "generated": "False",
+            "ground_truth": "False",
+            "similarity": 1.0,
+            "correct": true
+        },
+        {
+            "image": "image_20250123_152858_.jpg",
+            "generated": "False. The white rack is slightly rotated and misaligned with the holder. It's unrecoverable.",
+            "ground_truth": "False. The white rack is slightly rotated and misaligned with the holder. It's unrecoverable.",
+            "similarity": 1.0,
+            "correct": true
+        },
+        {
+            "image": "image_20250122_171214_10.jpg",
+            "generated": "False",
+            "ground_truth": "False",
+            "similarity": 1.0,
+            "correct": true
+        },
+        {
+            "image": "image_20250122_182627_2.jpg",
+            "generated": "False. The white rack is slightly offset to the forward and misaligned with the holder. It's recoverable.",
+            "ground_truth": "False. The white rack is slightly offset to the forward and misaligned with the holder. It's recoverable.",
+            "similarity": 1.0,
+            "correct": true
+        },
+        {
+            "image": "image_20250122_171359_4.jpg",
+            "generated": "False",
+            "ground_truth": "False",
+            "similarity": 1.0,
+            "correct": true
+        },
+        {
+            "image": "image_20250122_171359_3.jpg",
+            "generated": "False",
+            "ground_truth": "False",
+            "similarity": 1.0,
+            "correct": true
+        },
+        {
+            "image": "image_20250122_171359_.jpg",
+            "generated": "False",
+            "ground_truth": "False",
+            "similarity": 1.0,
+            "correct": true
+        },
+        {
+            "image": "image_20250122_171359_7.jpg",
+            "generated": "False",
+            "ground_truth": "False",
+            "similarity": 1.0,
+            "correct": true
+        },
+        {
+            "image": "image_20250122_170117_8.jpg",
+            "generated": "False. The black rack is slightly offset to the forward and misaligned with the holder. It's recoverable.",
+            "ground_truth": "False. The black rack is slightly offset to the forward and misaligned with the holder. It's recoverable.",
+            "similarity": 1.0,
+            "correct": true
+        },
+        {
+            "image": "image_20250123_152454.jpg",
+            "generated": "False. The white rack is slightly offset to the back and misaligned with the holder. It's recoverable.",
+            "ground_truth": "False. The white rack is slightly offset to the back and misaligned with the holder. It's recoverable.",
+            "similarity": 1.0,
+            "correct": true
+        },
+        {
+            "image": "image_20250122_182652.jpg",
+            "generated": "False. The white rack is slightly offset to the forward and misaligned with the holder. It's recoverable.",
+            "ground_truth": "False. The white rack is slightly offset to the forward and misaligned with the holder. It's recoverable.",
+            "similarity": 1.0,
+            "correct": true
+        },
+        {
+            "image": "image_20250122_170221.jpg",
+            "generated": "False. The black rack is slightly offset to the forward and misaligned with the holder. It's recoverable.",
+            "ground_truth": "False. The black rack is slightly offset to the left and misaligned with the holder. It's recoverable.",
+            "similarity": 0.9565217391304348,
+            "correct": true
+        },
+        {
+            "image": "image_20250122_182043_2.jpg",
+            "generated": "False. The white rack is slightly offset to the forward and misaligned with the holder. It's recoverable.",
+            "ground_truth": "False. The white rack is slightly offset to the forward and misaligned with the holder. It's recoverable.",
+            "similarity": 1.0,
+            "correct": true
+        },
+        {
+            "image": "image_20250122_172926.jpg",
+            "generated": "False. The black rack is slightly offset to the back and misaligned with the holder. It's recoverable.",
+            "ground_truth": "False. The black rack is slightly offset to the back and misaligned with the holder. It's recoverable.",
+            "similarity": 1.0,
+            "correct": true
+        },
+        {
+            "image": "WIN_20250205_18_49_18_Pro_2.jpg",
+            "generated": "False. The right long rack is slightly tilted and misaligned with the holder. It's unrecoverable.",
+            "ground_truth": "False. The right long rack is slightly tilted and misaligned with the holder. It's unrecoverable.",
+            "similarity": 1.0,
+            "correct": true
+        },
+        {
+            "image": "WIN_20250205_18_49_18_Pro.jpg",
+            "generated": "False. The right long rack is slightly tilted and misaligned with the holder. It's unrecoverable.",
+            "ground_truth": "False. The right long rack is slightly tilted and misaligned with the holder. It's unrecoverable.",
+            "similarity": 1.0,
+            "correct": true
+        },
+        {
+            "image": "WIN_20250205_18_48_07_Pro_3.jpg",
+            "generated": "False. The right long rack is slightly tilted and misaligned with the holder. It's unrecoverable.",
+            "ground_truth": "False. The right long rack is slightly tilted and misaligned with the holder. It's unrecoverable.",
+            "similarity": 1.0,
+            "correct": true
+        },
+        {
+            "image": "WIN_20250205_18_52_23_Pro_3.jpg",
+            "generated": "False. The right long rack is slightly tilted and misaligned with the holder. It's unrecoverable.",
+            "ground_truth": "False. The right long rack is slightly tilted and misaligned with the holder. It's unrecoverable.",
+            "similarity": 1.0,
+            "correct": true
+        },
+        {
+            "image": "WIN_20250205_18_51_40_Pro.jpg",
+            "generated": "False. The right long rack is tilted and misaligned with the holder. It's unrecoverable.",
+            "ground_truth": "False. The right long rack is tilted and misaligned with the holder. It's unrecoverable.",
+            "similarity": 1.0,
+            "correct": true
+        },
+        {
+            "image": "WIN_20250205_18_50_13_Pro.jpg",
+            "generated": "False. The right long rack is tilted and misaligned with the holder. It's unrecoverable.",
+            "ground_truth": "False. The right long rack is tilted and misaligned with the holder. It's unrecoverable.",
+            "similarity": 1.0,
+            "correct": true
+        },
+        {
+            "image": "WIN_20250205_18_51_12_Pro.jpg",
+            "generated": "False. The right long rack is tilted and misaligned with the holder. It's unrecoverable.",
+            "ground_truth": "False. The right long rack is tilted and misaligned with the holder. It's unrecoverable.",
+            "similarity": 1.0,
+            "correct": true
+        },
+        {
+            "image": "WIN_20250205_18_52_13_Pro.jpg",
+            "generated": "False. The right long rack is slightly tilted and misaligned with the holder. It's unrecoverable.",
+            "ground_truth": "False. The right long rack is slightly tilted and misaligned with the holder. It's unrecoverable.",
+            "similarity": 1.0,
+            "correct": true
+        },
+        {
+            "image": "WIN_20250205_18_54_09_Pro.jpg",
+            "generated": "False. The right long rack is slightly tilted and misaligned with the holder. It's unrecoverable.",
+            "ground_truth": "False. The right long rack is slightly tilted and misaligned with the holder. It's unrecoverable.",
+            "similarity": 1.0,
+            "correct": true
+        },
+        {
+            "image": "WIN_20250205_18_54_21_Pro.jpg",
+            "generated": "False. The right long rack is slightly tilted and misaligned with the holder. It's unrecoverable.",
+            "ground_truth": "False. The right long rack is slightly tilted and misaligned with the holder. It's unrecoverable.",
+            "similarity": 1.0,
+            "correct": true
+        },
+        {
+            "image": "WIN_20250205_18_58_01_Pro_.jpg",
+            "generated": "False. The black rack is slightly rotated and misaligned with the holder. It's unrecoverable.",
+            "ground_truth": "False. The black rack is slightly rotated and misaligned with the holder. It's unrecoverable.",
+            "similarity": 1.0,
+            "correct": true
+        },
+        {
+            "image": "WIN_20250205_18_58_13_Pro.jpg",
+            "generated": "False. The black rack is slightly rotated and misaligned with the holder. It's unrecoverable.",
+            "ground_truth": "False. The black rack is slightly rotated and misaligned with the holder. It's unrecoverable.",
+            "similarity": 1.0,
+            "correct": true
+        },
+        {
+            "image": "WIN_20250205_18_59_25_Pro.jpg",
+            "generated": "False. The black rack is slightly rotated and misaligned with the holder. It's unrecoverable.",
+            "ground_truth": "False. The black rack is slightly rotated and misaligned with the holder. It's unrecoverable.",
+            "similarity": 1.0,
+            "correct": true
+        },
+        {
+            "image": "image_20250122_172915.jpg",
+            "generated": "False. The black rack is slightly offset to the back and misaligned with the holder. It's recoverable.",
+            "ground_truth": "False. The black rack is slightly offset to the right and misaligned with the holder. It's recoverable.",
+            "similarity": 0.9560975609756097,
+            "correct": true
+        },
+        {
+            "image": "image_20250123_153035_5.jpg",
+            "generated": "False. The black rack is slightly offset to the left and misaligned with the holder. It's recoverable.",
+            "ground_truth": "False. The black rack is slightly offset to the left and misaligned with the holder. It's recoverable.",
+            "similarity": 1.0,
+            "correct": true
+        },
+        {
+            "image": "image_20250123_152426_3.jpg",
+            "generated": "True",
+            "ground_truth": "True",
+            "similarity": 1.0,
+            "correct": true
+        },
+        {
+            "image": "image_20250123_152426_2.jpg",
+            "generated": "True",
+            "ground_truth": "True",
+            "similarity": 1.0,
+            "correct": true
+        },
+        {
+            "image": "image_20250123_152426_.jpg",
+            "generated": "True",
+            "ground_truth": "True",
+            "similarity": 1.0,
+            "correct": true
+        },
+        {
+            "image": "image_20250122_172913_6.jpg",
+            "generated": "False. The black rack is slightly offset to the left and misaligned with the holder. It's recoverable.",
+            "ground_truth": "False. The black rack is slightly offset to the left and misaligned with the holder. It's recoverable.",
+            "similarity": 1.0,
+            "correct": true
+        },
+        {
+            "image": "image_20250122_172851.jpg",
+            "generated": "False. The black rack is slightly offset to the left and misaligned with the holder. It's recoverable.",
+            "ground_truth": "False. The black rack is slightly offset to the left and misaligned with the holder. It's recoverable.",
+            "similarity": 1.0,
+            "correct": true
+        },
+        {
+            "image": "image_20250122_172851_2.jpg",
+            "generated": "False. The black rack is slightly offset to the left and misaligned with the holder. It's recoverable.",
+            "ground_truth": "False. The black rack is slightly offset to the left and misaligned with the holder. It's recoverable.",
+            "similarity": 1.0,
+            "correct": true
+        },
+        {
+            "image": "image_20250122_172833_2.jpg",
+            "generated": "False. The black rack is slightly offset to the left and misaligned with the holder. It's recoverable.",
+            "ground_truth": "False. The black rack is slightly offset to the left and misaligned with the holder. It's recoverable.",
+            "similarity": 1.0,
+            "correct": true
+        },
+        {
+            "image": "image_20250122_182109.jpg",
+            "generated": "False. The white rack is slightly offset to the forward and misaligned with the holder. It's recoverable.",
+            "ground_truth": "False. The white rack is slightly offset to the forward and misaligned with the holder. It's recoverable.",
+            "similarity": 1.0,
+            "correct": true
+        },
+        {
+            "image": "image_20250122_171529.jpg",
+            "generated": "False",
+            "ground_truth": "False",
+            "similarity": 1.0,
+            "correct": true
+        },
+        {
+            "image": "image_20250122_182523_.jpg",
+            "generated": "False. The white rack is slightly offset to the forward and misaligned with the holder. It's recoverable.",
+            "ground_truth": "False. The white rack is slightly offset to the forward and misaligned with the holder. It's recoverable.",
+            "similarity": 1.0,
+            "correct": true
+        },
+        {
+            "image": "image_20250122_171446.jpg",
+            "generated": "False",
+            "ground_truth": "False",
+            "similarity": 1.0,
+            "correct": true
+        },
+        {
+            "image": "image_20250123_152446.jpg",
+            "generated": "False. The white rack is slightly offset to the right and misaligned with the holder. It's recoverable.",
+            "ground_truth": "False. The white rack is slightly offset to the right and misaligned with the holder. It's recoverable.",
+            "similarity": 1.0,
+            "correct": true
+        },
+        {
+            "image": "image_20250123_152446_3.jpg",
+            "generated": "False. The white rack is slightly offset to the right and misaligned with the holder. It's recoverable.",
+            "ground_truth": "False. The white rack is slightly offset to the right and misaligned with the holder. It's recoverable.",
+            "similarity": 1.0,
+            "correct": true
+        },
+        {
+            "image": "image_20250123_152417_.jpg",
+            "generated": "True",
+            "ground_truth": "True",
+            "similarity": 1.0,
+            "correct": true
+        },
+        {
+            "image": "image_20250123_152417_3.jpg",
+            "generated": "True",
+            "ground_truth": "True",
+            "similarity": 1.0,
+            "correct": true
+        },
+        {
+            "image": "image_20250122_172830_2.jpg",
+            "generated": "False. The black rack is slightly offset to the back and misaligned with the holder. It's recoverable.",
+            "ground_truth": "False. The black rack is slightly offset to the back and misaligned with the holder. It's recoverable.",
+            "similarity": 1.0,
+            "correct": true
+        },
+        {
+            "image": "image_20250122_171210_6.jpg",
+            "generated": "False",
+            "ground_truth": "False",
+            "similarity": 1.0,
+            "correct": true
+        },
+        {
+            "image": "image_20250122_171210_.jpg",
+            "generated": "False",
+            "ground_truth": "False",
+            "similarity": 1.0,
+            "correct": true
+        },
+        {
+            "image": "image_20250122_171210_2.jpg",
+            "generated": "False",
+            "ground_truth": "False",
+            "similarity": 1.0,
+            "correct": true
+        },
+        {
+            "image": "image_20250122_182027.jpg",
+            "generated": "False. The white rack is slightly offset to the forward and misaligned with the holder. It's recoverable.",
+            "ground_truth": "False. The white rack is slightly offset to the forward and misaligned with the holder. It's recoverable.",
+            "similarity": 1.0,
+            "correct": true
+        },
+        {
+            "image": "image_20250123_153053_.jpg",
+            "generated": "False. The black rack is slightly offset to the back and misaligned with the holder. It's recoverable.",
+            "ground_truth": "False. The black rack is slightly offset to the back and misaligned with the holder. It's recoverable.",
+            "similarity": 1.0,
+            "correct": true
+        },
+        {
+            "image": "image_20250123_152854.jpg",
+            "generated": "False. The white rack is slightly rotated and misaligned with the holder. It's unrecoverable.",
+            "ground_truth": "False. The white rack is slightly rotated and misaligned with the holder. It's unrecoverable.",
+            "similarity": 1.0,
+            "correct": true
+        },
+        {
+            "image": "image_20250122_170212.jpg",
+            "generated": "False. The black rack is slightly rotated and misaligned with the holder. It's unrecoverable.",
+            "ground_truth": "False. The black rack is slightly rotated and misaligned with the holder. It's unrecoverable.",
+            "similarity": 1.0,
+            "correct": true
+        },
+        {
+            "image": "image_20250122_182638_.jpg",
+            "generated": "False. The white rack is slightly offset to the back and misaligned with the holder. It's recoverable.",
+            "ground_truth": "False. The white rack is slightly offset to the back and misaligned with the holder. It's recoverable.",
+            "similarity": 1.0,
+            "correct": true
+        },
+        {
+            "image": "image_20250122_170146.jpg",
+            "generated": "False. The black rack is slightly offset to the forward and misaligned with the holder. It's recoverable.",
+            "ground_truth": "False. The black rack is slightly rotated and misaligned with the holder. It's unrecoverable.",
+            "similarity": 0.8787878787878788,
+            "correct": true
+        },
+        {
+            "image": "image_20250122_171503.jpg",
+            "generated": "False",
+            "ground_truth": "False",
+            "similarity": 1.0,
+            "correct": true
+        },
+        {
+            "image": "image_20250122_171410.jpg",
+            "generated": "False",
+            "ground_truth": "False",
+            "similarity": 1.0,
+            "correct": true
+        },
+        {
+            "image": "image_20250122_182654.jpg",
+            "generated": "False. The white rack is slightly offset to the forward and misaligned with the holder. It's recoverable.",
+            "ground_truth": "False. The white rack is slightly offset to the forward and misaligned with the holder. It's recoverable.",
+            "similarity": 1.0,
+            "correct": true
+        },
+        {
+            "image": "image_20250122_182041.jpg",
+            "generated": "False. The white rack is slightly offset to the forward and misaligned with the holder. It's recoverable.",
+            "ground_truth": "False. The white rack is slightly offset to the forward and misaligned with the holder. It's recoverable.",
+            "similarity": 1.0,
+            "correct": true
+        },
+        {
+            "image": "image_20250122_182645_.jpg",
+            "generated": "False. The white rack is slightly offset to the left and misaligned with the holder. It's recoverable.",
+            "ground_truth": "False. The white rack is slightly offset to the left and misaligned with the holder. It's recoverable.",
+            "similarity": 1.0,
+            "correct": true
+        },
+        {
+            "image": "image_20250122_170140.jpg",
+            "generated": "False. The black rack is slightly offset to the forward and misaligned with the holder. It's recoverable.",
+            "ground_truth": "False. The black rack is slightly offset to the forward and misaligned with the holder. It's recoverable.",
+            "similarity": 1.0,
+            "correct": true
+        },
+        {
+            "image": "image_20250122_171334.jpg",
+            "generated": "False",
+            "ground_truth": "False",
+            "similarity": 1.0,
+            "correct": true
+        },
+        {
+            "image": "image_20250122_171334.jpg",
+            "generated": "False",
+            "ground_truth": "False",
+            "similarity": 1.0,
+            "correct": true
+        },
+        {
+            "image": "image_20250122_182116_.jpg",
+            "generated": "False. The white rack is slightly offset to the forward and misaligned with the holder. It's recoverable.",
+            "ground_truth": "False. The white rack is slightly offset to the forward and misaligned with the holder. It's recoverable.",
+            "similarity": 1.0,
+            "correct": true
+        },
+        {
+            "image": "image_20250122_171346.jpg",
+            "generated": "False",
+            "ground_truth": "False",
+            "similarity": 1.0,
+            "correct": true
+        },
+        {
+            "image": "image_20250123_152433.jpg",
+            "generated": "False. The white rack is slightly offset to the forward and misaligned with the holder. It's recoverable.",
+            "ground_truth": "False. The white rack is slightly offset to the forward and misaligned with the holder. It's recoverable.",
+            "similarity": 1.0,
+            "correct": true
+        },
+        {
+            "image": "image_20250123_153033_4.jpg",
+            "generated": "False. The black rack is slightly offset to the left and misaligned with the holder. It's recoverable.",
+            "ground_truth": "False. The black rack is slightly offset to the left and misaligned with the holder. It's recoverable.",
+            "similarity": 1.0,
+            "correct": true
+        },
+        {
+            "image": "image_20250123_153033_6.jpg",
+            "generated": "False. The black rack is slightly offset to the left and misaligned with the holder. It's recoverable.",
+            "ground_truth": "False. The black rack is slightly offset to the left and misaligned with the holder. It's recoverable.",
+            "similarity": 1.0,
+            "correct": true
+        },
+        {
+            "image": "image_20250123_153033_.jpg",
+            "generated": "False. The black rack is slightly offset to the left and misaligned with the holder. It's recoverable.",
+            "ground_truth": "False. The black rack is slightly offset to the left and misaligned with the holder. It's recoverable.",
+            "similarity": 1.0,
+            "correct": true
+        },
+        {
+            "image": "image_20250123_152509_2.jpg",
+            "generated": "False. The white rack is slightly rotated and misaligned with the holder. It's unrecoverable.",
+            "ground_truth": "False. The white rack is slightly rotated and misaligned with the holder. It's unrecoverable.",
+            "similarity": 1.0,
+            "correct": true
+        },
+        {
+            "image": "image_20250123_152509_3.jpg",
+            "generated": "False. The white rack is slightly rotated and misaligned with the holder. It's unrecoverable.",
+            "ground_truth": "False. The white rack is slightly rotated and misaligned with the holder. It's unrecoverable.",
+            "similarity": 1.0,
+            "correct": true
+        },
+        {
+            "image": "image_20250122_170216_7.jpg",
+            "generated": "False. The black rack is slightly offset to the forward and misaligned with the holder. It's recoverable.",
+            "ground_truth": "False. The black rack is slightly offset to the forward and misaligned with the holder. It's recoverable.",
+            "similarity": 1.0,
+            "correct": true
+        },
+        {
+            "image": "image_20250122_170216_12.jpg",
+            "generated": "False. The black rack is slightly offset to the forward and misaligned with the holder. It's recoverable.",
+            "ground_truth": "False. The black rack is slightly offset to the forward and misaligned with the holder. It's recoverable.",
+            "similarity": 1.0,
+            "correct": true
+        },
+        {
+            "image": "image_20250122_170216_18.jpg",
+            "generated": "False. The black rack is slightly offset to the forward and misaligned with the holder. It's recoverable.",
+            "ground_truth": "False. The black rack is slightly offset to the forward and misaligned with the holder. It's recoverable.",
+            "similarity": 1.0,
+            "correct": true
+        },
+        {
+            "image": "image_20250122_172930_2.jpg",
+            "generated": "False. The black rack is slightly offset to the back and misaligned with the holder. It's recoverable.",
+            "ground_truth": "False. The black rack is slightly offset to the back and misaligned with the holder. It's recoverable.",
+            "similarity": 1.0,
+            "correct": true
+        },
+        {
+            "image": "image_20250122_172919_5.jpg",
+            "generated": "False. The black rack is slightly offset to the back and misaligned with the holder. It's recoverable.",
+            "ground_truth": "False. The black rack is slightly offset to the back and misaligned with the holder. It's recoverable.",
+            "similarity": 1.0,
+            "correct": true
+        },
+        {
+            "image": "image_20250122_171517.jpg",
+            "generated": "False",
+            "ground_truth": "False",
+            "similarity": 1.0,
+            "correct": true
+        }
+    ]
+}

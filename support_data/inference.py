@@ -1,6 +1,7 @@
 import json
 import difflib
 from transformers import AutoProcessor, LlavaOnevisionForConditionalGeneration
+from sklearn.metrics import accuracy_score, precision_recall_fscore_support
 import torch
 from PIL import Image
 import transformers
@@ -22,9 +23,10 @@ processor = AutoProcessor.from_pretrained(original_model_id)
 with open('./dataset/test_data.json', 'r') as f:
     data_samples = json.load(f)
 
-# Define a threshold for similarity; answers with similarity above this are considered correct.
+# Define a threshold for similarity
 SIMILARITY_THRESHOLD = 0.9
-
+y_true, y_pred = [], []
+# results = []
 total_samples = 0
 correct_samples = 0
 results = []  # to store individual sample results
@@ -42,46 +44,48 @@ for sample in data_samples:
 
     # Build the conversation turns (human and assistant)
     for turn in sample.get("conversations", []):
-        role = "human" if turn["from"] == "human" else "assistant"
+        if turn["from"] != "human":
+            continue 
+
+        content_list = []
         if turn["value"].startswith("<image>"):
             text = turn["value"][len("<image>"):].strip()
-            content_list = []
             if text:
                 content_list.append({"type": "text", "text": text})
             content_list.append({"type": "image"})
         else:
-            content_list = [{"type": "text", "text": turn["value"].strip()}]
+            content_list.append({"type": "text", "text": turn["value"].strip()})
+
         conversation.append({
-            "role": role,
+            "role": "human",
             "content": content_list
         })
 
     # Create the prompt using the processor’s chat template
     prompt = processor.apply_chat_template(conversation, add_generation_prompt=True)
     
-    # Load the corresponding image (assumed to be in "./dataset/resized_images/")
+    # Load the corresponding image
     image_path = f"./dataset/resized_images/{sample['image']}"
+    print(image_path)
     raw_image = Image.open(image_path).convert("RGB")
-    
+    print('prompt', prompt)
     # Process inputs and generate model output
     inputs = processor(images=raw_image, text=prompt, return_tensors='pt').to(0, torch.float16)
     output = model.generate(**inputs, max_new_tokens=2000, do_sample=False)
     decoded_output = processor.decode(output[0][2:], skip_special_tokens=True)
-    
     # Extract the assistant's answer by splitting on the token "assistant"
     parts = decoded_output.split("assistant")
-    if len(parts) > 1:
-        generated_answer = parts[1].strip()
-    else:
-        generated_answer = decoded_output.strip()
-    
-    # Extract ground truth answer (assuming "gpt" turns hold ground truth)
+    generated_answer = parts[1].strip()
+
+    # Extract ground truth answer
     ground_truth_list = [turn["value"].strip() for turn in sample.get("conversations", []) if turn["from"] == "gpt"]
     ground_truth = " ".join(ground_truth_list)
     
     # Compare the generated answer and ground truth using difflib
     similarity = difflib.SequenceMatcher(None, generated_answer.lower(), ground_truth.lower()).ratio()
     is_correct = similarity >= SIMILARITY_THRESHOLD
+    y_true.append(1)
+    y_pred.append(int(is_correct))
     if is_correct:
         correct_samples += 1
 
@@ -103,7 +107,7 @@ final_results = {
 }
 
 # Save the final results into a JSON file
-with open('evaluation_results.json', 'w') as f:
+with open('test_results.json', 'w') as f:
     json.dump(final_results, f, indent=4)
 
-print(f"Results saved to evaluation_results.json with overall success rate: {success_rate:.2f}%")
+print(f"Results saved to test_results.json with overall success rate: {success_rate:.2f}%")
