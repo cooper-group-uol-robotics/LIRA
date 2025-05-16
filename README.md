@@ -34,3 +34,8 @@ execute InspectionTest.java
 python support_data/inference.py
 ```
 note: remember to update the path of test_data.json
+
+# 6.Fine-tuned Model:
+```bash
+git clone https://huggingface.co/Zhengxue/llava-onevision-0.5b-ov_train3
+```
